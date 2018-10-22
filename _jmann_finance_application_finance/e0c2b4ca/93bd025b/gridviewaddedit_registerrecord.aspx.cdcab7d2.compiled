@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/GridViewAddEdit_RegisterRecord.aspx" hash="1b6e2c42e" filehash="b11f900881fe673d" flags="110000" assembly="App_Web_fdgqmtkv" type="ASP.gridviewaddedit_registerrecord_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/GridViewAddEdit_RegisterRecord.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/GridViewAddEdit_RegisterRecord.aspx.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>

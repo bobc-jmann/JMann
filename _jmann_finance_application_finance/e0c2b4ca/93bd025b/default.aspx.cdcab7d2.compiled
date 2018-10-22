@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/Default.aspx" hash="1b6e2c42e" filehash="39077b5b9489e732" flags="110000" assembly="App_Web_4yvdki55" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/Default.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/Default.aspx.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>

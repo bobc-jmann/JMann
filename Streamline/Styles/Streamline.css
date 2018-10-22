@@ -1,0 +1,377 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+.content 
+{
+    border: 1px solid black;
+	background: white;
+	height: 95%;
+	width: 88%;
+	padding: 10px;
+	color: black;
+    position:absolute;
+    top:10px;
+    left:178px;
+	vertical-align:top; 
+	border: 0px solid #000;
+	overflow: auto;
+	} 
+.floatleft 
+{
+    border: 1px solid black;
+	overflow: auto;
+    background:skyblue;
+    position:absolute;
+    color: White;
+	float: left;
+	width: 165px;
+	height: 100%;
+	min-height: 100%; 
+	border: 0px solid #000;
+	vertical-align:top; 
+	padding-left:5px;
+	}  
+table 
+{
+    font-size: 1em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin-bottom: 0px;
+}
+body   
+{
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+a.nav, a.nav:visited, a.nav:link, a.nav:active
+{
+    color:White;
+    text-decoration:none;
+}
+a.nav:hover
+{
+    color: White;
+    font-weight:bolder;
+}
+p.nav, table.nav
+{
+    color:White;
+}
+.nav
+{
+    color:White;
+}
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+.editLbl 
+{
+    vertical-align:top;
+    text-align: right;
+    font-variant: small-caps;
+    font-size: 11px;
+    color:#808080;
+}
+.displayLbl
+{
+    font-size: .9em;
+}
+#wrapper {
+	background: white;
+	border: 0px solid #000;
+	width:auto;
+	width: 100%; 
+	height: 100%;
+	margin: 0; 
+	position: absolute;
+	} 
+
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+    color:Blue;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+h2
+{
+    font-size: 1.4em;
+    font-weight: 600;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+h3
+{
+    font-size: 1.1em;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+h4
+{
+    font-size: 1.0em;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+h5, h6
+{
+    font-size: .9em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    width: 960px;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+#footer
+{
+    color: #4e5766;
+    padding: 5px 5px 5px 5px;
+    margin: 0px auto;
+    width:100%;
+    text-align: center;
+    line-height: normal;
+    position: fixed;
+    bottom: 0px;
+    font-size:smaller;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color:#3a4f63;
+    width:100%;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #465c71;
+    border: 1px #4e667d solid;
+    color: #dde4ec;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+div.menu ul li a:hover
+{
+    background-color: #bfcbd6;
+    color: #465c71;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+.title
+{
+    display: block;
+    color:White;
+    float: left;
+    text-align: center;
+    width: auto;
+}
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: White;
+}
+
+.loginDisplay a:link
+{
+    color: white;
+}
+
+.loginDisplay a:visited
+{
+    color: white;
+}
+
+.loginDisplay a:hover
+{
+    color: white;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+

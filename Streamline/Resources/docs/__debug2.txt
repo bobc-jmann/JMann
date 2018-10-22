@@ -1,0 +1,57 @@
+
+
+vRPTFilter:  and SectionID=13447 and StatusID=2
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2
+select * from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vRPTFilter:  and SectionID=13447 and StatusID=2
+ and SectionID=13447 and StatusID=2
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2
+select * from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vRPTFilter:  and SectionID=13447 and StatusID=2
+ and SectionID=13447 and StatusID=2
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2
+select * from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vRPTFilter:  and SectionID=13447 and StatusID=2
+ and SectionID=13447 and StatusID=2
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2
+select * from tblAddresses where (1=1)  and SectionID=13447 and StatusID=2:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vRPTFilter:  and CharityStatus='Inactive'
+vbExecuteScalar: select count(*) as vCt from tblCharities where (1=1)  and CharityStatus='Inactive'
+select * from tblCharities where (1=1)  and CharityStatus='Inactive':1
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLCHARITIES'
+vRPTFilter:  and CharityStatus='Inactive'
+ and CharityStatus='Inactive'
+vbExecuteScalar: select count(*) as vCt from tblCharities where (1=1)  and CharityStatus='Inactive'
+select * from tblCharities where (1=1)  and CharityStatus='Inactive':1
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLCHARITIES'
+vRPTFilter:  and CharityStatus='Inactive'
+ and CharityStatus='Inactive'
+vbExecuteScalar: select count(*) as vCt from tblCharities where (1=1)  and CharityStatus='Inactive'
+select * from tblCharities where (1=1)  and CharityStatus='Inactive':1
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLCHARITIES'
+vRPTFilter: 
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1) 
+select * from tblAddresses where (1=1) :2333410
+vRPTFilter:  and SectionID=13447
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447
+select * from tblAddresses where (1=1)  and SectionID=13447:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vRPTFilter:  and SectionID=13447
+ and SectionID=13447
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447
+select * from tblAddresses where (1=1)  and SectionID=13447:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vRPTFilter:  and SectionID=13447
+ and SectionID=13447
+vbExecuteScalar: select count(*) as vCt from tblAddresses where (1=1)  and SectionID=13447
+select * from tblAddresses where (1=1)  and SectionID=13447:833
+vbExecuteScalar: SELECT Type FROM sysobjects WHERE upper(Name)='TBLADDRESSES'
+vbExecuteScalar: select MaxDaysInAdvanceToScheduleWebSpecials from tblAppSettings
+vbExecuteScalar: select UseWebSpecialsPickupDateAlgorithm from tblAppSettings
+vbExecuteScalar: select MaxDaysInAdvanceToScheduleWebSpecials from tblAppSettings
+vbExecuteScalar: select UseWebSpecialsPickupDateAlgorithm from tblAppSettings
+11

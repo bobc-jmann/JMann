@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/GridViewAddEdit_Employee.aspx" hash="1b6e2c42e" filehash="8f9980614de394fb" flags="110000" assembly="App_Web_fdgqmtkv" type="ASP.gridviewaddedit_employee_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/GridViewAddEdit_Employee.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/GridViewAddEdit_Employee.aspx.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,41 @@
+.dxCardView_gvFilterRowButton_Office2003Silver,
+.dxCardView_gvHeaderFilter_Office2003Silver,
+.dxCardView_gvHeaderFilterActive_Office2003Silver,
+.dxCardView_gvHeaderSortDown_Office2003Silver,
+.dxCardView_gvHeaderSortUp_Office2003Silver
+{
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxCardView_gvFilterRowButton_Office2003Silver
+{
+    background-position: 0px -34px;
+    width: 13px;
+    height: 13px;
+}
+.dxCardView_gvHeaderFilter_Office2003Silver
+{
+    background-position: 0px -17px;
+    width: 15px;
+    height: 16px;
+}
+.dxCardView_gvHeaderFilterActive_Office2003Silver
+{
+    background-position: 0px 0px;
+    width: 15px;
+    height: 16px;
+}
+.dxCardView_gvHeaderSortDown_Office2003Silver
+{
+    background-position: 0px -48px;
+    width: 7px;
+    height: 4px;
+}
+.dxCardView_gvHeaderSortUp_Office2003Silver
+{
+    background-position: -8px -48px;
+    width: 7px;
+    height: 4px;
+}
+

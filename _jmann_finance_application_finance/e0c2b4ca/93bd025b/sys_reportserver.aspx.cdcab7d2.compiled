@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/sys_ReportServer.aspx" hash="1b6e2c42e" filehash="1827385d5e5eb62a" flags="110000" assembly="App_Web_edcykhnq" type="ASP.sys_reportserver_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/sys_ReportServer.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/sys_ReportServer.aspx.cs" />
+    </filedeps>
+</preserve>

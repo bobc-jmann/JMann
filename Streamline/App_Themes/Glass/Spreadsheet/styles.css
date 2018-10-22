@@ -1,0 +1,155 @@
+.dxssControl_Glass 
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #4986A2;
+	font: 12px Tahoma, Geneva, sans-serif;
+}
+.dxssControl_Glass .dxrControl_Glass .dxr-tabContent 
+{
+	border-left-style: none;
+	border-right-style: none;
+}
+.dxssControl_Glass .dxss-gl .dxss-v,
+.dxssControl_Glass .dxss-gl .dxss-h 
+{
+	border-color: #C2D4DA;
+}
+.dxssControl_Glass .dxss-rowHeader 
+{	
+	border-right: 1px solid #C2D4DA;
+	border-top: 1px solid #C2D4DA;
+}
+.dxssControl_Glass .dxss-colHeader 
+{
+	border-bottom: 1px solid #C2D4DA;
+	border-left: 1px solid #C2D4DA;
+}
+.dxssControl_Glass .dxss-crse 
+{
+	background-color: #75a2bc; 
+}
+.dxssControl_Glass .dxss-trbe 
+{
+	border-top-color: #4986a2;
+}
+.dxssControl_Glass .dxss-rrbe 
+{
+	border-right-color: #4986a2;
+}
+.dxssControl_Glass .dxss-brbe 
+{
+	border-bottom-color: #4986a2;
+}
+.dxssControl_Glass .dxss-lrbe 
+{
+	border-left-color: #4986a2;
+}
+.dxssControl_Glass .dxss-smbe
+{
+    border-color: #4986a2;
+}
+.dxssControl_Glass .dxrControl_Glass .dxtcLite_Glass.dxtc-top .dxtc-leftIndent
+{
+	width: 3px;
+}
+.dxssControl_Glass .dxtcLite_Glass.dxtc-bottom .dxtc-leftIndent
+{
+	width: 8px;
+}
+.dxssControl_Glass .dxtcLite_Glass
+{
+	padding-bottom: 6px;
+}
+.dxssControl_Glass .dxrControl_Glass .dxtcLite_Glass
+{
+	padding-bottom: 0px;
+}
+.dxssControl_Glass .dxtcLite_Glass,
+.dxssControl_Glass .dxrControl_Glass .dxtcLite_Glass
+{
+	background-color: #D3E9F0;
+}
+.dxssControl_Glass .dxss-hrg,
+.dxssControl_Glass .dxss-vrg 
+{
+	background-color: #4986a2;
+}
+.dxssControl_Glass .dxrControl_Glass .dxr-minBtn 
+{
+	padding-right: 7px;
+}
+.dxssControl_Glass .dxtcLite_Glass.dxtc-bottom .dxtc-stripContainer .dxtc-tab
+{
+    border-top-color: #4986A2;
+}
+.dxssControl_Glass .dxss-tse 
+{
+	border-color: #4986a2;
+}
+.dxssControl_Glass .dxss-tre
+{
+	background: url('TouchResize.png');
+}
+/* Loading panel */
+.dxssLoadingDiv_Glass
+{
+    background: white;
+    opacity: 0.85 !important;
+    filter: alpha(opacity=85);
+}
+.dxssLoadingPanel_Glass
+{
+	font: 12px Tahoma, Geneva, sans-serif;
+	color: #303030;
+	border: 1px solid #7EACB1;
+	background-color: White;
+}
+.dxssLoadingPanel_Glass td.dx
+{
+    white-space: nowrap;
+    text-align: center;
+    padding: 12px;
+}
+ .dxssLoadingPanel_Glass .dxlp-loadingImage
+{
+	background-image: url('../Web/Loading.gif');
+	height: 27px;
+	width: 27px;
+}
+/* --------------Dialogs----------------- */
+.dxpcLite_Glass .dxssDlgFooter
+{
+	background-color: #D3E6F3;	
+	
+	background-image: url('DlgFooterBack.gif');
+    background-repeat:repeat-x;
+    background-position:top;
+
+	border-top-style: none;
+}
+.dxpcLite_Glass .dxssDlgInsertImageForm .dxssDlgImagePreviewCell
+{
+    color: #878787;
+    border: dashed 1px #cac8c8;
+}
+.dxssControl_Glass .dxrpControl_Glass .dxrpcontent
+{
+	padding: 11px !important;
+}
+
+.dxssModifyChartStyleContenPanel .dxbButtonHover_Glass
+{
+	background: #B5D7DB url('../Editors/edtButtonHoverBack.gif') repeat-x top;
+	border: 1px solid #71ACB4;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonChecked_Glass
+{
+	background: #d3d3d3 url('../Editors/edtButtonCheckedBack.gif') repeat-x top;
+	border: 1px solid #929292;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonPressed_Glass
+{
+	background: #9ABDC1 url('../Editors/edtButtonPressedBack.gif') repeat-x top;
+	border: 1px solid #71ACB4;
+}

@@ -1,0 +1,2 @@
+robocopy "\\PORTAL\shared\2015 Reports\15MgrReports" "D:\Websites\Streamline\Portal\shared\2015 Reports\15MgrReports" /xo /fft
+pause

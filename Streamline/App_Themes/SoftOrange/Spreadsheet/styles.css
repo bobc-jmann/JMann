@@ -1,0 +1,159 @@
+.dxssControl_SoftOrange 
+{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #D3D3D3;
+	font: 12px Tahoma, Geneva, sans-serif;
+}
+.dxssControl_SoftOrange .dxrControl_SoftOrange .dxr-tabContent 
+{
+	border-left-style: none;
+	border-right-style: none;
+}
+.dxssControl_SoftOrange .dxss-gl .dxss-v,
+.dxssControl_SoftOrange .dxss-gl .dxss-h 
+{
+	border-color: #c5c5c5;
+}
+.dxssControl_SoftOrange .dxss-rowHeader 
+{	
+	border-right: 1px solid #c5c5c5;
+	border-top: 1px solid #c5c5c5;
+}
+.dxssControl_SoftOrange .dxss-colHeader 
+{
+	border-bottom: 1px solid #c5c5c5;
+	border-left: 1px solid #c5c5c5;
+}
+.dxssControl_SoftOrange .dxss-crse 
+{
+	background-color: #999fa5;
+	opacity: 0.20;
+}
+.dxssControl_SoftOrange .dxss-trbe 
+{
+	border-top-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxss-rrbe 
+{
+	border-right-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxss-brbe 
+{
+	border-bottom-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxss-lrbe 
+{
+	border-left-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxss-smbe
+{
+    border-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxrControl_SoftOrange .dxtcLite_SoftOrange.dxtc-top .dxtc-leftIndent
+{
+	width: 3px;	
+}
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom .dxtc-stripContainer .dxtc-leftIndent
+{
+	width: 8px;
+	border-top: 3px solid #D3D3D3;
+}
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom .dxtc-stripContainer .dxtc-sbIndent,
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom .dxtc-stripContainer .dxtc-sbSpacer,
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom .dxtc-stripContainer .dxtc-spacer,
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom .dxtc-stripContainer .dxtc-rightIndent 
+{
+	border-top: 3px solid #D3D3D3;
+}
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom
+{
+	padding-bottom: 6px;
+}
+.dxssControl_SoftOrange .dxtcLite_SoftOrange,
+.dxssControl_SoftOrange .dxrControl_SoftOrange .dxtcLite_SoftOrange
+{
+	background-color: #E5E5E5;
+}
+.dxssControl_SoftOrange .dxss-hrg,
+.dxssControl_SoftOrange .dxss-vrg 
+{
+	background-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxtcLite_SoftOrange.dxtc-bottom .dxtc-strip .dxtc-tab 
+{
+	border-top: 3px solid #D3D3D3;
+}
+.dxssControl_SoftOrange .dxrControl_SoftOrange .dxr-minBtn
+{
+	padding-right: 7px;
+}
+.dxssControl_SoftOrange .dxss-tse
+{
+	border-color: #999fa5;
+}
+.dxssControl_SoftOrange .dxss-tre
+{
+	background: url('TouchResize.png');
+}
+/* Loading panel */
+.dxssLoadingDiv_SoftOrange
+{
+    background: white;
+    opacity: 0.85 !important;
+    filter: alpha(opacity=85);
+}
+.dxssLoadingPanel_SoftOrange
+{
+	font: 12px Tahoma, Geneva, sans-serif;
+	color: #f88538;
+	background-color: White;
+	border: 1px solid #F88538;
+}
+.dxssLoadingPanel_SoftOrange td.dx
+{
+    white-space: nowrap;
+    text-align: center;
+	padding: 10px 20px 6px;
+}
+.dxssLoadingPanel_SoftOrange .dxlp-loadingImage
+{
+	background-image: url('../Web/Loading.gif');
+	height: 18px;
+	width: 18px;
+}
+/* --------------Dialogs----------------- */
+.dxpcLite_SoftOrange .dxssDlgFooter
+{
+	background-color: #F9F9F9;
+	border-top: 1px #E0E0E0 solid;
+}
+
+.dxpcLite_SoftOrange .dxssDlgInsertImageForm .dxssDlgImagePreviewCell
+{
+    color: #878787;
+    border: dashed 1px #cac8c8;
+}
+.dxssControl_SoftOrange .dxrpControl_SoftOrange .dxrpcontent
+{
+	padding: 15px !important;
+}
+
+.dxssModifyChartStyleContenPanel .dxbButtonHover_SoftOrange
+{
+	color: #FFFFFF;
+	background: #f88e3d url('../Editors/edtButtonHoverBack.gif') repeat-x top;
+	border: 1px solid #cb4b31;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonChecked_SoftOrange
+{
+	color: #f1bfac;
+	background: #d95626 url('../Editors/edtButtonCheckedBack.gif') repeat-x top;
+	border: 1px solid #ba2000;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonPressed_SoftOrange
+{
+	color: #f1bfac;
+	background: #d95626 url('../Editors/edtButtonPressedBack.gif') repeat-x top;
+	border: 1px solid #ba2000;
+}

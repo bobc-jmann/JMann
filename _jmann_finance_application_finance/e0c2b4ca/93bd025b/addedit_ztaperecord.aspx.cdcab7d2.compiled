@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/AddEdit_ZTapeRecord.aspx" hash="1b6e2c42e" filehash="da3e8f8d4c6a6ebf" flags="110000" assembly="App_Web_fdgqmtkv" type="ASP.addedit_ztaperecord_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/AddEdit_ZTapeRecord.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/AddEdit_ZTapeRecord.aspx.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>

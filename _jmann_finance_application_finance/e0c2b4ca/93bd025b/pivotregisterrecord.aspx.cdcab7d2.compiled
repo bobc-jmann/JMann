@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/PivotRegisterRecord.aspx" hash="1b6e2c42e" filehash="c821c56f5529d134" flags="110000" assembly="App_Web_fdgqmtkv" type="ASP.pivotregisterrecord_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/PivotRegisterRecord.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/PivotRegisterRecord.aspx.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>

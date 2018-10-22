@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx?wsdl" docRef="http://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx" xmlns:q1="https://geoservices.tamu.edu/" binding="q1:GeocoderService_V04_01Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx" xmlns:q2="https://geoservices.tamu.edu/" binding="q2:GeocoderService_V04_01Soap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

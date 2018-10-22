@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" hash="1b6e2c42e" filehash="872d11ceffb08bde" flags="110000" assembly="App_Web_0z3r311f" type="ASP.uc_footer_ascx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>

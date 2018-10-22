@@ -1,0 +1,790 @@
+.dxeButtonEditButtonHover_SoftOrange .dxEditors_edtClear_SoftOrange,
+.dxEditors_caRefresh_SoftOrange,
+.dxEditors_edtBinaryImageDelete_SoftOrange,
+.dxEditors_edtBinaryImageOpenDialog_SoftOrange,
+.dxEditors_edtCalendarFNNextYear_SoftOrange,
+.dxEditors_edtCalendarFNPrevYear_SoftOrange,
+.dxEditors_edtCalendarNextMonth_SoftOrange,
+.dxEditors_edtCalendarNextMonthDisabled_SoftOrange,
+.dxEditors_edtCalendarNextYear_SoftOrange,
+.dxEditors_edtCalendarNextYearDisabled_SoftOrange,
+.dxEditors_edtCalendarPrevMonth_SoftOrange,
+.dxEditors_edtCalendarPrevMonthDisabled_SoftOrange,
+.dxEditors_edtCalendarPrevYear_SoftOrange,
+.dxEditors_edtCalendarPrevYearDisabled_SoftOrange,
+.dxEditors_edtClear_SoftOrange,
+.dxEditors_edtDETSClockFace_SoftOrange,
+.dxEditors_edtDETSHourHand_SoftOrange,
+.dxEditors_edtDETSMinuteHand_SoftOrange,
+.dxEditors_edtDETSSecondHand_SoftOrange,
+.dxEditors_edtDropDown_SoftOrange,
+.dxEditors_edtDropDownDisabled_SoftOrange,
+.dxEditors_edtEllipsis_SoftOrange,
+.dxEditors_edtEllipsisDisabled_SoftOrange,
+.dxEditors_edtError_SoftOrange,
+.dxEditors_edtRadioButtonChecked_SoftOrange,
+.dxEditors_edtRadioButtonCheckedDisabled_SoftOrange,
+.dxEditors_edtRadioButtonUnchecked_SoftOrange,
+.dxEditors_edtRadioButtonUncheckedDisabled_SoftOrange,
+.dxEditors_edtSpinEditDecrementImage_SoftOrange,
+.dxEditors_edtSpinEditDecrementImageDisabled_SoftOrange,
+.dxEditors_edtSpinEditIncrementImage_SoftOrange,
+.dxEditors_edtSpinEditIncrementImageDisabled_SoftOrange,
+.dxEditors_edtSpinEditLargeDecImage_SoftOrange,
+.dxEditors_edtSpinEditLargeDecImageDisabled_SoftOrange,
+.dxEditors_edtSpinEditLargeIncImage_SoftOrange,
+.dxEditors_edtSpinEditLargeIncImageDisabled_SoftOrange,
+.dxEditors_edtTBDecBtn_SoftOrange,
+.dxEditors_edtTBDecBtnDisabled_SoftOrange,
+.dxEditors_edtTBDecBtnHover_SoftOrange,
+.dxEditors_edtTBDecBtnPressed_SoftOrange,
+.dxEditors_edtTBIncBtn_SoftOrange,
+.dxEditors_edtTBIncBtnDisabled_SoftOrange,
+.dxEditors_edtTBIncBtnHover_SoftOrange,
+.dxEditors_edtTBIncBtnPressed_SoftOrange,
+.dxEditors_edtTokenBoxTokenRemoveButton_SoftOrange,
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_SoftOrange,
+.dxEditors_fcadd_SoftOrange,
+.dxEditors_fcaddhot_SoftOrange,
+.dxEditors_fcgroupaddcondition_SoftOrange,
+.dxEditors_fcgroupaddgroup_SoftOrange,
+.dxEditors_fcgroupand_SoftOrange,
+.dxEditors_fcgroupnotand_SoftOrange,
+.dxEditors_fcgroupnotor_SoftOrange,
+.dxEditors_fcgroupor_SoftOrange,
+.dxEditors_fcgroupremove_SoftOrange,
+.dxEditors_fcopany_SoftOrange,
+.dxEditors_fcopbegin_SoftOrange,
+.dxEditors_fcopbetween_SoftOrange,
+.dxEditors_fcopblank_SoftOrange,
+.dxEditors_fcopcontain_SoftOrange,
+.dxEditors_fcopend_SoftOrange,
+.dxEditors_fcopequal_SoftOrange,
+.dxEditors_fcopgreater_SoftOrange,
+.dxEditors_fcopgreaterorequal_SoftOrange,
+.dxEditors_fcopless_SoftOrange,
+.dxEditors_fcoplessorequal_SoftOrange,
+.dxEditors_fcoplike_SoftOrange,
+.dxEditors_fcopnotany_SoftOrange,
+.dxEditors_fcopnotbetween_SoftOrange,
+.dxEditors_fcopnotblank_SoftOrange,
+.dxEditors_fcopnotcontain_SoftOrange,
+.dxEditors_fcopnotequal_SoftOrange,
+.dxEditors_fcopnotlike_SoftOrange,
+.dxEditors_fcremove_SoftOrange,
+.dxEditors_fcremovehot_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_SoftOrange,
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBMainDH_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBMainDHHover_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBMainDH_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBMainDHHover_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxeButtonEditButtonHover_SoftOrange .dxEditors_edtClear_SoftOrange
+{
+    background-position: -98px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_caRefresh_SoftOrange
+{
+    background-position: -180px 0px;
+    width: 21px;
+    height: 23px;
+}
+.dxEditors_edtBinaryImageDelete_SoftOrange
+{
+    background-position: -138px -87px;
+    width: 32px;
+    height: 32px;
+}
+.dxEditors_edtBinaryImageOpenDialog_SoftOrange
+{
+    background-position: -171px -87px;
+    width: 32px;
+    height: 32px;
+}
+.dxEditors_edtCalendarFNNextYear_SoftOrange
+{
+    background-position: -64px -142px;
+    width: 19px;
+    height: 19px;
+}
+.dxEditors_edtCalendarFNPrevYear_SoftOrange
+{
+    background-position: -104px -142px;
+    width: 19px;
+    height: 19px;
+}
+.dxEditors_edtCalendarNextMonth_SoftOrange
+{
+    background-position: -44px -142px;
+    width: 19px;
+    height: 19px;
+}
+.dxEditors_edtCalendarNextMonthDisabled_SoftOrange
+{
+    background-position: -24px -142px;
+    width: 19px;
+    height: 19px;
+}
+.dxEditors_edtCalendarNextYear_SoftOrange
+{
+    background-position: -110px -120px;
+    width: 23px;
+    height: 19px;
+}
+.dxEditors_edtCalendarNextYearDisabled_SoftOrange
+{
+    background-position: -158px -120px;
+    width: 23px;
+    height: 19px;
+}
+.dxEditors_edtCalendarPrevMonth_SoftOrange
+{
+    background-position: -84px -142px;
+    width: 19px;
+    height: 19px;
+}
+.dxEditors_edtCalendarPrevMonthDisabled_SoftOrange
+{
+    background-position: -182px -120px;
+    width: 19px;
+    height: 19px;
+}
+.dxEditors_edtCalendarPrevYear_SoftOrange
+{
+    background-position: 0px -142px;
+    width: 23px;
+    height: 19px;
+}
+.dxEditors_edtCalendarPrevYearDisabled_SoftOrange
+{
+    background-position: -134px -120px;
+    width: 23px;
+    height: 19px;
+}
+.dxEditors_edtClear_SoftOrange
+{
+    background-position: -14px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_edtDETSClockFace_SoftOrange
+{
+    background-position: 0px 0px;
+    width: 119px;
+    height: 119px;
+}
+.dxEditors_edtDETSHourHand_SoftOrange
+{
+    background-position: -170px 0px;
+    width: 9px;
+    height: 54px;
+}
+.dxEditors_edtDETSHourHand_SoftOrange
+{
+    background-position: -140px 0px \9;
+    width: 9px \9;
+    height: 54px \9;
+}
+.dxEditors_edtDETSMinuteHand_SoftOrange
+{
+    background-position: -160px 0px;
+    width: 9px;
+    height: 54px;
+}
+.dxEditors_edtDETSMinuteHand_SoftOrange
+{
+    background-position: -150px 0px \9;
+    width: 9px \9;
+    height: 54px \9;
+}
+.dxEditors_edtDETSSecondHand_SoftOrange
+{
+    background-position: -130px 0px;
+    width: 9px;
+    height: 85px;
+}
+.dxEditors_edtDETSSecondHand_SoftOrange
+{
+    background-position: -120px 0px \9;
+    width: 9px \9;
+    height: 85px \9;
+}
+.dxEditors_edtDropDown_SoftOrange
+{
+    background-position: -168px -206px;
+    width: 9px;
+    height: 4px;
+}
+.dxEditors_edtDropDownDisabled_SoftOrange
+{
+    background-position: -178px -206px;
+    width: 9px;
+    height: 4px;
+}
+.dxEditors_edtEllipsis_SoftOrange
+{
+    background-position: -191px -24px;
+    width: 10px;
+    height: 2px;
+}
+.dxEditors_edtEllipsisDisabled_SoftOrange
+{
+    background-position: -180px -24px;
+    width: 10px;
+    height: 2px;
+}
+.dxEditors_edtError_SoftOrange
+{
+    background-position: -162px -55px;
+    width: 14px;
+    height: 14px;
+}
+.dxEditors_edtRadioButtonChecked_SoftOrange
+{
+    background-position: -180px -27px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonCheckedDisabled_SoftOrange
+{
+    background-position: -120px -88px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonUnchecked_SoftOrange
+{
+    background-position: -162px -70px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonUncheckedDisabled_SoftOrange
+{
+    background-position: -122px -104px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtSpinEditDecrementImage_SoftOrange
+{
+    background-position: -160px -206px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditDecrementImageDisabled_SoftOrange
+{
+    background-position: -144px -206px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImage_SoftOrange
+{
+    background-position: -196px -27px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImageDisabled_SoftOrange
+{
+    background-position: -152px -206px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditLargeDecImage_SoftOrange
+{
+    background-position: -197px -152px;
+    width: 6px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeDecImageDisabled_SoftOrange
+{
+    background-position: -196px -162px;
+    width: 6px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeIncImage_SoftOrange
+{
+    background-position: -196px -33px;
+    width: 6px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeIncImageDisabled_SoftOrange
+{
+    background-position: -196px -142px;
+    width: 6px;
+    height: 9px;
+}
+.dxEditors_edtTBDecBtn_SoftOrange
+{
+    background-position: -88px -120px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBDecBtnDisabled_SoftOrange
+{
+    background-position: -180px -65px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBDecBtnHover_SoftOrange
+{
+    background-position: -66px -120px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBDecBtnPressed_SoftOrange
+{
+    background-position: 0px -120px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtn_SoftOrange
+{
+    background-position: -140px -65px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtnDisabled_SoftOrange
+{
+    background-position: -180px -43px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtnHover_SoftOrange
+{
+    background-position: -22px -120px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtnPressed_SoftOrange
+{
+    background-position: -44px -120px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButton_SoftOrange
+{
+    background-position: -124px -142px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_SoftOrange
+{
+    background-position: -140px -142px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_fcadd_SoftOrange
+{
+    background-position: -168px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcaddhot_SoftOrange
+{
+    background-position: -112px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddcondition_SoftOrange
+{
+    background-position: -100px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddgroup_SoftOrange
+{
+    background-position: -28px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupand_SoftOrange
+{
+    background-position: -84px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotand_SoftOrange
+{
+    background-position: 0px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotor_SoftOrange
+{
+    background-position: -84px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupor_SoftOrange
+{
+    background-position: -112px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupremove_SoftOrange
+{
+    background-position: -56px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopany_SoftOrange
+{
+    background-position: -70px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbegin_SoftOrange
+{
+    background-position: -154px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbetween_SoftOrange
+{
+    background-position: -126px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopblank_SoftOrange
+{
+    background-position: -142px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopcontain_SoftOrange
+{
+    background-position: -42px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopend_SoftOrange
+{
+    background-position: -126px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopequal_SoftOrange
+{
+    background-position: -42px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreater_SoftOrange
+{
+    background-position: -140px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreaterorequal_SoftOrange
+{
+    background-position: -14px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopless_SoftOrange
+{
+    background-position: -98px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplessorequal_SoftOrange
+{
+    background-position: -156px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplike_SoftOrange
+{
+    background-position: -70px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotany_SoftOrange
+{
+    background-position: 0px -192px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotbetween_SoftOrange
+{
+    background-position: -128px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotblank_SoftOrange
+{
+    background-position: -184px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotcontain_SoftOrange
+{
+    background-position: -114px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotequal_SoftOrange
+{
+    background-position: -170px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotlike_SoftOrange
+{
+    background-position: -182px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremove_SoftOrange
+{
+    background-position: -28px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremovehot_SoftOrange
+{
+    background-position: -56px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_SoftOrange
+{
+    background-position: -20px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_SoftOrange
+{
+    background-position: -176px -142px;
+    width: 9px;
+    height: 15px;
+}
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_SoftOrange
+{
+    background-position: -60px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_SoftOrange
+{
+    background-position: -90px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_SoftOrange
+{
+    background-position: -50px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeFocused_SoftOrange .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+    background-position: -166px -142px;
+    width: 9px;
+    height: 15px;
+}
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_SoftOrange
+{
+    background-position: -128px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_SoftOrange
+{
+    background-position: -156px -192px;
+    width: 15px;
+    height: 9px;
+}
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_SoftOrange
+{
+    background-position: -172px -192px;
+    width: 15px;
+    height: 9px;
+}
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_SoftOrange
+{
+    background-position: -80px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_SoftOrange
+{
+    background-position: -32px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeFocused_SoftOrange .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+    background-position: -16px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDH_SoftOrange
+{
+    background-position: -40px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_SoftOrange
+{
+    background-position: -156px -142px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHHover_SoftOrange
+{
+    background-position: -80px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_SoftOrange
+{
+    background-position: -186px -142px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_SoftOrange
+{
+    background-position: 0px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_SoftOrange
+{
+    background-position: -10px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_SoftOrange
+{
+    background-position: -70px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+    background-position: -30px -176px;
+    width: 9px;
+    height: 15px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDH_SoftOrange
+{
+    background-position: -188px -192px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_SoftOrange
+{
+    background-position: -140px -55px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHHover_SoftOrange
+{
+    background-position: -96px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_SoftOrange
+{
+    background-position: -64px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_SoftOrange
+{
+    background-position: -140px -192px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_SoftOrange
+{
+    background-position: -48px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_SoftOrange
+{
+    background-position: -112px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+    background-position: 0px -206px;
+    width: 15px;
+    height: 9px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_SoftOrange,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+	z-index: 7;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_SoftOrange,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_SoftOrange
+{
+	z-index: 7;
+}
+.dxEditors_edtError_SoftOrange,
+.dxEditors_edtCalendarPrevYear_SoftOrange,
+.dxEditors_edtCalendarPrevYearDisabled_SoftOrange,
+.dxEditors_edtCalendarPrevMonth_SoftOrange,
+.dxEditors_edtCalendarPrevMonthDisabled_SoftOrange,
+.dxEditors_edtCalendarNextMonth_SoftOrange,
+.dxEditors_edtCalendarNextMonthDisabled_SoftOrange,
+.dxEditors_edtCalendarNextYear_SoftOrange,
+.dxEditors_edtCalendarNextYearDisabled_SoftOrange,
+.dxEditors_edtCalendarFNPrevYear_SoftOrange,
+.dxEditors_edtCalendarFNNextYear_SoftOrange,
+.dxEditors_edtEllipsis_SoftOrange,
+.dxEditors_edtEllipsisDisabled_SoftOrange,
+.dxEditors_edtDropDown_SoftOrange,
+.dxEditors_edtDropDownDisabled_SoftOrange,
+.dxEditors_edtSpinEditIncrementImage_SoftOrange,
+.dxEditors_edtSpinEditIncrementImageDisabled_SoftOrange,
+.dxEditors_edtSpinEditDecrementImage_SoftOrange,
+.dxEditors_edtSpinEditDecrementImageDisabled_SoftOrange,
+.dxEditors_edtSpinEditLargeIncImage_SoftOrange,
+.dxEditors_edtSpinEditLargeIncImageDisabled_SoftOrange,
+.dxEditors_edtSpinEditLargeDecImage_SoftOrange,
+.dxEditors_edtSpinEditLargeDecImageDisabled_SoftOrange
+{
+	display:block;
+	margin:auto;
+}
+.dxEditors_edtCalendarFNPrevYear_SoftOrange
+{
+    margin-right: 8px;
+}
+.dxEditors_edtCalendarFNNextYear_SoftOrange
+{
+    margin-left: 8px;
+}
+

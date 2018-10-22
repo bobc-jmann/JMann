@@ -1,0 +1,245 @@
+.dxreControl_Office2010Black
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #484848;
+	font: 11px Verdana, Geneva, sans-serif;
+}
+.dxreControl_Office2010Black .dxre-rulerWrapper {
+	padding-top: 2px;
+    background-color: #AAAAAA;
+}
+.dxreControl_Office2010Black .dxre-ruler .dxre-columnHandleLeftPart,
+.dxreControl_Office2010Black .dxre-ruler .dxre-columnHandleRightPart {
+    width: 5px;
+    background-color: #bcb8b8;
+}
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerDivisions div,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-columnHandle,
+.dxreControl_Office2010Black .dxre-ruler .dxre-columnHandle > div {
+	height: 12px;
+}
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_Office2010Black .dxre-rulerWrapper .dxre-rulertabAlignBox > div {
+    background-color: #fff;
+}
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_Office2010Black .dxre-ruler .dxre-columnHandle,
+.dxreControl_Office2010Black .dxre-rulerWrapper .dxre-rulertabAlignBox {
+    background-color: #d3d3d3;
+}
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerDivisions .dxre-rulerMinorDivision,
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerDivisions .dxre-rulerMajorDivision {
+	border-left: 1px solid #a3a3a3;
+}
+.dxreControl_Office2010Black .dxre-ruler .dxre-rulerDivisions .dxre-rulerNumberDivision {
+	color: #4e4e4e;
+}
+.dxreControl_Office2010Black .dxre-rulerLine {
+	border-left: 1px dashed #717171;
+}
+.dxreControl_Office2010Black .dxre-leftIdentDragHandleBody {
+    background-color: white;
+    border: 1px solid #929292;
+    border-top: none;
+    height: 6px;
+    box-sizing: border-box;
+}
+.dxreControl_Office2010Black .dxrControl_Office2010Black .dxr-minBtn 
+{
+	padding-right: 7px;
+}
+.dxreControl_Office2010Black .dxrControl_Office2010Black .dxtcLite_Office2010Black
+{
+	background-color: #838383;
+}
+.dxreControl_Office2010Black .dxrControl_Office2010Black .dxr-tabContent 
+{
+	border-left-style: none;
+	border-right-style: none;
+}
+.dxreControl_Office2010Black .dxrControl_Office2010Black .dxtcLite_Office2010Black.dxtc-top .dxtc-leftIndent
+{
+	width: 3px;
+}
+.dxreControl_Office2010Black .dxre-page {
+    border: 1px solid #808080;
+	box-shadow: 0 0 15px #484848;
+}
+.dxreControl_Office2010Black .dxre-view {
+	background: #AAAAAA;
+	background: linear-gradient(to bottom, #AAAAAA 70%, #999999 100%);
+}
+.dxreControl_Office2010Black .dxre-bar 
+{
+	background-color: #d7d8d8;
+	border-top: 1px solid #484848;
+    height: 22px;
+}
+.dxreControl_Office2010Black .dxre-bar .dxre-loadingPanel {
+    float: right;
+    margin: 3px 2px 0 0;
+    color: #3c3c3c;
+}
+.dxreControl_Office2010Black .dxre-bar .dxre-loadingPanel .dx {
+    line-height: 0;
+}
+.dxreControl_Office2010Black .dxre-bar .dxre-loadingPanel .dxlp-loadingImage {
+    width: 16px;
+    height: 16px;
+    background: url('../Web/Loading.gif');
+}
+
+/*Dialogs Style*/
+.dxreControl_Office2010Black .dxreDlgParagraphForm .dxtc-content {
+    width: 430px;
+    height: 290px;
+}
+.dxreControl_Office2010Black .dxreDlgPageSetupForm .dxtc-content {
+    width: 350px;
+    height: 230px;
+}
+.dxreControl_Office2010Black .dxreDlgColumnsForm {
+    width: 400px;
+}
+.dxreControl_Office2010Black .dxreDlgColumnsForm .dxreDlgColumnsEditorMainTable > tbody > tr > td {
+    padding: 2px 4px;
+}
+.dxreControl_Office2010Black .dxreDlgColumnsForm .dxreDlgColumnsEditor {
+    height: 100px;
+}
+.dxreControl_Office2010Black .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgTextBox {
+    width: 40px;
+}
+.dxreControl_Office2010Black .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgSpinEdit {
+    width: 90px;
+}
+.dxreControl_Office2010Black .dxreDlgErrorForm {
+    width: 350px;
+}
+.dxreControl_Office2010Black .dxreDlgCaptionCell {
+	padding-left: 5px;
+    padding-right: 7px;
+    padding-top: 3px;
+}
+.dxreControl_Office2010Black .dxreDlgContentCell {
+	padding: 11px;
+}
+.dxreControl_Office2010Black .dxreDlgHeaderCell {
+	padding-bottom: 7px;
+}
+.dxreControl_Office2010Black .dxreDlgEmptyLine {
+	height: 8px;
+}
+.dxreControl_Office2010Black .dxreDlgEditor {
+    width: 110px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Office2010Black .dxreDlgEditorShort {
+    width: 70px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Office2010Black .dxreDlgEditorLong {
+    width: 170px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Office2010Black .dxreDlgFooterBtn {
+    width: 80px;
+    margin-left: 8px;
+}
+.dxreControl_Office2010Black .dxreDlgPageSetupApplyTo {
+	bottom: 70px;
+	left: 23px;
+}
+.dxreControl_Office2010Black .dxreDlgTypeRadionButtonListCell {
+	padding-bottom: 10px;
+}
+.dxreControl_Office2010Black .dxreDlgFooter {
+	height: 27px;
+	padding: 10px 10px 11px 10px;
+    background-color: #D7D8D8;
+    border-top: Solid 1px #ADADAD;
+}
+.dxreControl_Office2010Black .dxreDlgInsertImageForm .dxreDlgImagePreview {
+    padding-top: 10px;
+}
+.dxreControl_Office2010Black .dxreDlgInsertImageForm .dxreDlgImagePreviewCell {
+    height: 170px;
+    color: #808080;
+    border: dashed 1px #808080;
+}
+.dxreControl_Office2010Black .dxreDlgInsertImageForm .dxreDlgImagePreviewCell img {
+    width: 180px;
+    height: 100px;
+}
+.dxreControl_Office2010Black .dxreDlgInsertImageForm .dxreDlgInsertImagePanel {
+    width: 315px;
+}
+.dxreControl_Office2010Black .dxreDlgNumberingListForm .dxreDlgMainContainer {
+    width: 520px;
+    height: 220px;
+}
+.dxreControl_Office2010Black .dxreDlgHyperlinkForm {
+    width: 380px;
+}
+.dxreControl_Office2010Black .dxreDlgTabsForm {
+    width: 380px;
+}
+.dxreControl_Office2010Black .dxreDlgTabsForm .dxreDlgTabsList {
+    height: 70px;
+}
+.dxreControl_Office2010Black .dxreMultiLevelNumberingListBox {
+    width: 30px;
+    height: 190px;
+}
+.dxreControl_Office2010Black .dxreDlgBulletedListForm .dxreDlgBulletPresetBtn {
+    width: 45px;
+    margin: 8px 0px 12px 5px;
+}
+.dxreControl_Office2010Black .dxreDlgListBox {
+    padding: 1px;
+}
+.dxreControl_Office2010Black .dxreDlgSymbolsForm .dxreDlgSymbolsList {
+    width: 500px;
+    height: 250px;
+    border: 1px solid #6A6A6A;
+}
+.dxreControl_Office2010Black .dxreDlgListBox > div {
+    border: 1px solid #6A6A6A;
+    margin: 1px;
+    background-color: #FFF;
+}
+.dxreControl_Office2010Black .dxreDlgSymbolsForm .dxreDlgListBox > div {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: large;
+}
+.dxreControl_Office2010Black .dxreDlgNumberingListForm .dxreDlgListBox > div {
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+}
+.dxreControl_Office2010Black .dxreDlgNumberingListForm .dxreDlgNumberingListPreview {
+    padding: 10px;
+    width: 90px;
+    height: 90px;
+}
+.dxreControl_Office2010Black .dxreDlgListBox .dxreDlgListHover {
+    background-color: #FAEDB6;
+}
+.dxreControl_Office2010Black .dxreDlgListBox .dxreDlgListSelected {
+    background-color: #808080;
+    color: #FFF;
+}

@@ -1,0 +1,778 @@
+.dxeButtonEditButtonHover_PlasticBlue .dxEditors_edtClear_PlasticBlue,
+.dxEditors_caRefresh_PlasticBlue,
+.dxEditors_edtBinaryImageDelete_PlasticBlue,
+.dxEditors_edtBinaryImageOpenDialog_PlasticBlue,
+.dxEditors_edtCalendarFNNextYear_PlasticBlue,
+.dxEditors_edtCalendarFNPrevYear_PlasticBlue,
+.dxEditors_edtCalendarNextMonth_PlasticBlue,
+.dxEditors_edtCalendarNextMonthDisabled_PlasticBlue,
+.dxEditors_edtCalendarNextYear_PlasticBlue,
+.dxEditors_edtCalendarNextYearDisabled_PlasticBlue,
+.dxEditors_edtCalendarPrevMonth_PlasticBlue,
+.dxEditors_edtCalendarPrevMonthDisabled_PlasticBlue,
+.dxEditors_edtCalendarPrevYear_PlasticBlue,
+.dxEditors_edtCalendarPrevYearDisabled_PlasticBlue,
+.dxEditors_edtClear_PlasticBlue,
+.dxEditors_edtDETSClockFace_PlasticBlue,
+.dxEditors_edtDETSHourHand_PlasticBlue,
+.dxEditors_edtDETSMinuteHand_PlasticBlue,
+.dxEditors_edtDETSSecondHand_PlasticBlue,
+.dxEditors_edtDropDown_PlasticBlue,
+.dxEditors_edtDropDownDisabled_PlasticBlue,
+.dxEditors_edtEllipsis_PlasticBlue,
+.dxEditors_edtEllipsisDisabled_PlasticBlue,
+.dxEditors_edtError_PlasticBlue,
+.dxEditors_edtRadioButtonChecked_PlasticBlue,
+.dxEditors_edtRadioButtonCheckedDisabled_PlasticBlue,
+.dxEditors_edtRadioButtonUnchecked_PlasticBlue,
+.dxEditors_edtRadioButtonUncheckedDisabled_PlasticBlue,
+.dxEditors_edtSpinEditDecrementImage_PlasticBlue,
+.dxEditors_edtSpinEditDecrementImageDisabled_PlasticBlue,
+.dxEditors_edtSpinEditIncrementImage_PlasticBlue,
+.dxEditors_edtSpinEditIncrementImageDisabled_PlasticBlue,
+.dxEditors_edtSpinEditLargeDecImage_PlasticBlue,
+.dxEditors_edtSpinEditLargeDecImageDisabled_PlasticBlue,
+.dxEditors_edtSpinEditLargeIncImage_PlasticBlue,
+.dxEditors_edtSpinEditLargeIncImageDisabled_PlasticBlue,
+.dxEditors_edtTBDecBtn_PlasticBlue,
+.dxEditors_edtTBDecBtnDisabled_PlasticBlue,
+.dxEditors_edtTBDecBtnHover_PlasticBlue,
+.dxEditors_edtTBDecBtnPressed_PlasticBlue,
+.dxEditors_edtTBIncBtn_PlasticBlue,
+.dxEditors_edtTBIncBtnDisabled_PlasticBlue,
+.dxEditors_edtTBIncBtnHover_PlasticBlue,
+.dxEditors_edtTBIncBtnPressed_PlasticBlue,
+.dxEditors_edtTokenBoxTokenRemoveButton_PlasticBlue,
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_PlasticBlue,
+.dxEditors_fcadd_PlasticBlue,
+.dxEditors_fcaddhot_PlasticBlue,
+.dxEditors_fcgroupaddcondition_PlasticBlue,
+.dxEditors_fcgroupaddgroup_PlasticBlue,
+.dxEditors_fcgroupand_PlasticBlue,
+.dxEditors_fcgroupnotand_PlasticBlue,
+.dxEditors_fcgroupnotor_PlasticBlue,
+.dxEditors_fcgroupor_PlasticBlue,
+.dxEditors_fcgroupremove_PlasticBlue,
+.dxEditors_fcopany_PlasticBlue,
+.dxEditors_fcopbegin_PlasticBlue,
+.dxEditors_fcopbetween_PlasticBlue,
+.dxEditors_fcopblank_PlasticBlue,
+.dxEditors_fcopcontain_PlasticBlue,
+.dxEditors_fcopend_PlasticBlue,
+.dxEditors_fcopequal_PlasticBlue,
+.dxEditors_fcopgreater_PlasticBlue,
+.dxEditors_fcopgreaterorequal_PlasticBlue,
+.dxEditors_fcopless_PlasticBlue,
+.dxEditors_fcoplessorequal_PlasticBlue,
+.dxEditors_fcoplike_PlasticBlue,
+.dxEditors_fcopnotany_PlasticBlue,
+.dxEditors_fcopnotbetween_PlasticBlue,
+.dxEditors_fcopnotblank_PlasticBlue,
+.dxEditors_fcopnotcontain_PlasticBlue,
+.dxEditors_fcopnotequal_PlasticBlue,
+.dxEditors_fcopnotlike_PlasticBlue,
+.dxEditors_fcremove_PlasticBlue,
+.dxEditors_fcremovehot_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue,
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBMainDH_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHHover_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBMainDH_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHHover_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxeButtonEditButtonHover_PlasticBlue .dxEditors_edtClear_PlasticBlue
+{
+    background-position: -56px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_caRefresh_PlasticBlue
+{
+    background-position: -28px -176px;
+    width: 19px;
+    height: 20px;
+}
+.dxEditors_edtBinaryImageDelete_PlasticBlue
+{
+    background-position: -69px -118px;
+    width: 32px;
+    height: 32px;
+}
+.dxEditors_edtBinaryImageOpenDialog_PlasticBlue
+{
+    background-position: -36px -118px;
+    width: 32px;
+    height: 32px;
+}
+.dxEditors_edtCalendarFNNextYear_PlasticBlue
+{
+    background-position: -85px -244px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtCalendarFNPrevYear_PlasticBlue
+{
+    background-position: -48px -281px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtCalendarNextMonth_PlasticBlue
+{
+    background-position: -92px -151px;
+    width: 9px;
+    height: 7px;
+}
+.dxEditors_edtCalendarNextMonthDisabled_PlasticBlue
+{
+    background-position: -108px -165px;
+    width: 9px;
+    height: 7px;
+}
+.dxEditors_edtCalendarNextYear_PlasticBlue
+{
+    background-position: -50px -151px;
+    width: 13px;
+    height: 7px;
+}
+.dxEditors_edtCalendarNextYearDisabled_PlasticBlue
+{
+    background-position: -78px -151px;
+    width: 13px;
+    height: 7px;
+}
+.dxEditors_edtCalendarPrevMonth_PlasticBlue
+{
+    background-position: -98px -353px;
+    width: 9px;
+    height: 7px;
+}
+.dxEditors_edtCalendarPrevMonthDisabled_PlasticBlue
+{
+    background-position: -108px -353px;
+    width: 9px;
+    height: 7px;
+}
+.dxEditors_edtCalendarPrevYear_PlasticBlue
+{
+    background-position: -36px -151px;
+    width: 13px;
+    height: 7px;
+}
+.dxEditors_edtCalendarPrevYearDisabled_PlasticBlue
+{
+    background-position: -64px -151px;
+    width: 13px;
+    height: 7px;
+}
+.dxEditors_edtClear_PlasticBlue
+{
+    background-position: -48px -311px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_edtDETSClockFace_PlasticBlue
+{
+    background-position: 0px 0px;
+    width: 117px;
+    height: 117px;
+}
+.dxEditors_edtDETSHourHand_PlasticBlue
+{
+    background-position: -20px -118px;
+    width: 7px;
+    height: 56px;
+}
+.dxEditors_edtDETSMinuteHand_PlasticBlue
+{
+    background-position: -28px -118px;
+    width: 7px;
+    height: 56px;
+}
+.dxEditors_edtDETSSecondHand_PlasticBlue
+{
+    background-position: -10px -118px;
+    width: 9px;
+    height: 78px;
+}
+.dxEditors_edtDETSSecondHand_PlasticBlue
+{
+    background-position: 0px -118px \9;
+    width: 9px \9;
+    height: 78px \9;
+}
+.dxEditors_edtDropDown_PlasticBlue
+{
+    background-position: -108px -260px;
+    width: 9px;
+    height: 6px;
+}
+.dxEditors_edtDropDownDisabled_PlasticBlue
+{
+    background-position: -98px -260px;
+    width: 9px;
+    height: 6px;
+}
+.dxEditors_edtEllipsis_PlasticBlue
+{
+    background-position: -36px -173px;
+    width: 10px;
+    height: 2px;
+}
+.dxEditors_edtEllipsisDisabled_PlasticBlue
+{
+    background-position: -71px -264px;
+    width: 10px;
+    height: 2px;
+}
+.dxEditors_edtError_PlasticBlue
+{
+    background-position: -64px -281px;
+    width: 14px;
+    height: 14px;
+}
+.dxEditors_edtRadioButtonChecked_PlasticBlue
+{
+    background-position: -69px -244px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonCheckedDisabled_PlasticBlue
+{
+    background-position: -16px -281px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonUnchecked_PlasticBlue
+{
+    background-position: -32px -281px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonUncheckedDisabled_PlasticBlue
+{
+    background-position: -101px -244px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtSpinEditDecrementImage_PlasticBlue
+{
+    background-position: -108px -159px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditDecrementImageDisabled_PlasticBlue
+{
+    background-position: -20px -175px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImage_PlasticBlue
+{
+    background-position: -82px -261px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImageDisabled_PlasticBlue
+{
+    background-position: -90px -261px;
+    width: 7px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditLargeDecImage_PlasticBlue
+{
+    background-position: -20px -181px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeDecImageDisabled_PlasticBlue
+{
+    background-position: -112px -197px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeIncImage_PlasticBlue
+{
+    background-position: -112px -213px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeIncImageDisabled_PlasticBlue
+{
+    background-position: -22px -189px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtTBDecBtn_PlasticBlue
+{
+    background-position: -92px -221px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBDecBtnDisabled_PlasticBlue
+{
+    background-position: -23px -221px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBDecBtnHover_PlasticBlue
+{
+    background-position: -69px -221px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBDecBtnPressed_PlasticBlue
+{
+    background-position: -46px -244px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBIncBtn_PlasticBlue
+{
+    background-position: -46px -221px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBIncBtnDisabled_PlasticBlue
+{
+    background-position: 0px -244px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBIncBtnHover_PlasticBlue
+{
+    background-position: -23px -244px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTBIncBtnPressed_PlasticBlue
+{
+    background-position: 0px -221px;
+    width: 22px;
+    height: 22px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButton_PlasticBlue
+{
+    background-position: 0px -281px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_PlasticBlue
+{
+    background-position: -102px -143px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_fcadd_PlasticBlue
+{
+    background-position: -96px -267px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcaddhot_PlasticBlue
+{
+    background-position: 0px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddcondition_PlasticBlue
+{
+    background-position: -42px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddgroup_PlasticBlue
+{
+    background-position: 0px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupand_PlasticBlue
+{
+    background-position: -104px -311px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotand_PlasticBlue
+{
+    background-position: -70px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotor_PlasticBlue
+{
+    background-position: -98px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupor_PlasticBlue
+{
+    background-position: -14px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupremove_PlasticBlue
+{
+    background-position: -98px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopany_PlasticBlue
+{
+    background-position: -42px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbegin_PlasticBlue
+{
+    background-position: -84px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbetween_PlasticBlue
+{
+    background-position: -90px -311px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopblank_PlasticBlue
+{
+    background-position: -28px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopcontain_PlasticBlue
+{
+    background-position: -42px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopend_PlasticBlue
+{
+    background-position: -56px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopequal_PlasticBlue
+{
+    background-position: 0px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreater_PlasticBlue
+{
+    background-position: -70px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreaterorequal_PlasticBlue
+{
+    background-position: -70px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopless_PlasticBlue
+{
+    background-position: -84px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplessorequal_PlasticBlue
+{
+    background-position: -76px -311px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplike_PlasticBlue
+{
+    background-position: -56px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotany_PlasticBlue
+{
+    background-position: -103px -281px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotbetween_PlasticBlue
+{
+    background-position: -14px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotblank_PlasticBlue
+{
+    background-position: -62px -311px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotcontain_PlasticBlue
+{
+    background-position: -28px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotequal_PlasticBlue
+{
+    background-position: -84px -339px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotlike_PlasticBlue
+{
+    background-position: -28px -325px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremove_PlasticBlue
+{
+    background-position: -96px -297px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremovehot_PlasticBlue
+{
+    background-position: -14px -353px;
+    width: 13px;
+    height: 13px;
+}
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_PlasticBlue
+{
+    background-position: -42px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_PlasticBlue
+{
+    background-position: -70px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_PlasticBlue
+{
+    background-position: -76px -173px;
+    width: 13px;
+    height: 23px;
+}
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_PlasticBlue
+{
+    background-position: -104px -173px;
+    width: 13px;
+    height: 23px;
+}
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue
+{
+    background-position: -102px -118px;
+    width: 13px;
+    height: 23px;
+}
+.dxeFocused_PlasticBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+    background-position: -14px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_PlasticBlue
+{
+    background-position: -24px -267px;
+    width: 23px;
+    height: 13px;
+}
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_PlasticBlue
+{
+    background-position: -48px -267px;
+    width: 23px;
+    height: 13px;
+}
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_PlasticBlue
+{
+    background-position: -24px -311px;
+    width: 23px;
+    height: 13px;
+}
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_PlasticBlue
+{
+    background-position: -72px -297px;
+    width: 23px;
+    height: 13px;
+}
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue
+{
+    background-position: -72px -267px;
+    width: 23px;
+    height: 13px;
+}
+.dxeFocused_PlasticBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+    background-position: 0px -267px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDH_PlasticBlue
+{
+    background-position: -62px -173px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_PlasticBlue
+{
+    background-position: -28px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHHover_PlasticBlue
+{
+    background-position: -84px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_PlasticBlue
+{
+    background-position: 0px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_PlasticBlue
+{
+    background-position: -90px -173px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_PlasticBlue
+{
+    background-position: -98px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue
+{
+    background-position: -56px -197px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+    background-position: -48px -173px;
+    width: 13px;
+    height: 23px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDH_PlasticBlue
+{
+    background-position: -79px -281px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_PlasticBlue
+{
+    background-position: -36px -159px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHHover_PlasticBlue
+{
+    background-position: -48px -297px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_PlasticBlue
+{
+    background-position: -60px -159px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_PlasticBlue
+{
+    background-position: -84px -159px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_PlasticBlue
+{
+    background-position: -24px -297px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_PlasticBlue
+{
+    background-position: 0px -297px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+    background-position: 0px -311px;
+    width: 23px;
+    height: 13px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_PlasticBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+	z-index: 7;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_PlasticBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_PlasticBlue
+{
+	z-index: 7;
+}
+.dxEditors_edtError_PlasticBlue,
+.dxEditors_edtCalendarPrevYear_PlasticBlue,
+.dxEditors_edtCalendarPrevYearDisabled_PlasticBlue,
+.dxEditors_edtCalendarPrevMonth_PlasticBlue,
+.dxEditors_edtCalendarPrevMonthDisabled_PlasticBlue,
+.dxEditors_edtCalendarNextMonth_PlasticBlue,
+.dxEditors_edtCalendarNextMonthDisabled_PlasticBlue,
+.dxEditors_edtCalendarNextYear_PlasticBlue,
+.dxEditors_edtCalendarNextYearDisabled_PlasticBlue,
+.dxEditors_edtCalendarFNPrevYear_PlasticBlue,
+.dxEditors_edtCalendarFNNextYear_PlasticBlue,
+.dxEditors_edtEllipsis_PlasticBlue,
+.dxEditors_edtEllipsisDisabled_PlasticBlue,
+.dxEditors_edtDropDown_PlasticBlue,
+.dxEditors_edtDropDownDisabled_PlasticBlue,
+.dxEditors_edtSpinEditIncrementImage_PlasticBlue,
+.dxEditors_edtSpinEditIncrementImageDisabled_PlasticBlue,
+.dxEditors_edtSpinEditDecrementImage_PlasticBlue,
+.dxEditors_edtSpinEditDecrementImageDisabled_PlasticBlue,
+.dxEditors_edtSpinEditLargeIncImage_PlasticBlue,
+.dxEditors_edtSpinEditLargeIncImageDisabled_PlasticBlue,
+.dxEditors_edtSpinEditLargeDecImage_PlasticBlue,
+.dxEditors_edtSpinEditLargeDecImageDisabled_PlasticBlue
+{
+	display:block;
+	margin:auto;
+}
+.dxEditors_edtCalendarFNPrevYear_PlasticBlue
+{
+    margin-right: 12px;
+}
+.dxEditors_edtCalendarFNNextYear_PlasticBlue
+{
+    margin-left: 12px;
+}
+

@@ -1,0 +1,197 @@
+﻿body {
+    font-family:Helvetica;
+}
+table {
+    font-family:Helvetica;
+}
+.lblBigTitle {
+    color: #990033;
+    font-size: 30px;
+    font-weight:bold;
+}
+.lblMainCaption {
+    color:gray;
+    font-size:18px;
+}
+.lblFurnitureCaption {
+    color:red;
+    font-size:18px;
+}
+.lblLightCaption
+{
+    color: gray;
+    font-family: helvetica; 
+    font-size:13pt; 
+}  
+.boxSteps {
+	padding: 7px;
+	border: 0px solid #d7d7d7;
+    background-color:#e6e4e5;
+    font-size:16px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	behavior: url(border-radius.htc);
+}
+.boxStepsSmall {
+	padding: 7px;
+	border: 0px solid #d7d7d7;
+    background-color:#e6e4e5;
+    font-size:16px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	behavior: url(border-radius.htc);
+}
+.boxStepsHiLite {
+	padding: 7px;
+	border: 0px solid #d7d7d7;
+    background-color:#004A84;
+    color:white;
+    font-weight:bold;
+    font-size:16px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+    -khtml-border-radius: 7px;
+	border-radius: 7px;
+	behavior: url(border-radius.htc);
+}
+.clsHR {
+    color: #909090;
+}
+.boxExplain {
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+	padding: 10px;
+	border: 0px solid #d7d7d7;
+    background-color:#e6e4e5;
+    font-size:15px;
+    -moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	behavior: url(border-radius.htc);
+}
+.boxLabel {
+    padding-top:4px; 
+    padding-bottom:4px; 
+    padding-left:7px; 
+    padding-right:7px; 
+	border: 0px solid #d7d7d7;
+    background-color:#004A84;
+    color:white;
+    font-weight:bold;
+    font-size:11pt;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+    -khtml-border-radius: 7px;
+	border-radius: 7px;
+	behavior: url(border-radius.htc);
+}
+.boxLabelCaption {
+    color:#909090;
+    font-family: helvetica; 
+    font-size:12pt; 
+    text-align:left; 
+}
+.boxFrame {
+	border: 3px solid silver;
+    background-color:white;
+    font-weight:bold;
+    font-size:16px;
+    padding:1px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	behavior: url(border-radius.htc);
+}
+.lblReadOnly {
+    color:black;
+    font-size:18px;
+}
+
+        .none {
+        }
+        .lblOrange
+        {
+            font-size:12pt;
+            text-align: center;
+            background-color: #004A84;  
+            color: white;
+            font-family: helvetica; 
+            font-weight: bold; 
+            padding-top:4px; 
+            padding-bottom:4px; 
+        } 
+        .lblGray
+        {
+            font-size:12pt;
+            text-align: center;
+            background-color:#E0E0E0;   
+            color: white;
+            font-family:helvetica; 
+            font-weight: bold; 
+        } 
+        .lblCaptionGraySmall
+        {
+            color:#909090;
+            font-family: helvetica; 
+            font-size:10pt; 
+            text-align:left; 
+        }
+        .lblCaptionBlack
+        {
+            color:black;
+            font-family: helvetica; 
+            font-size:13pt;   
+        }
+        .lblCaptionBlackSmall
+        {
+            color:black;
+            font-family: helvetica; 
+            font-size:10pt; 
+        }
+        .lblCaptionOrange
+        {
+            color:#004A84;
+            font-family: helvetica; 
+            font-size:13pt; 
+        }  
+        .txtOrange
+        {
+             margin-left:8px; 
+             margin-top:6px;
+             height:15px;
+             border: 2px none white;
+             outline: white none 2px;
+        } 
+        .boxOrange2 {
+	        padding: 7px;
+	        border: 0px solid #d7d7d7;
+            background-color:#004A84;
+            color:white;
+            font-weight:bold;
+            font-size:16px;
+	        -moz-border-radius: 7px;
+	        -webkit-border-radius: 7px;
+	        border-radius: 7px;
+	        behavior: url(border-radius.htc);
+        }
+        .boxGraySmaller {
+	        padding: 7px;
+	        border: 0px solid #d7d7d7;
+            background-color:#e6e4e5;
+            font-size:13px;
+	        -moz-border-radius: 7px;
+	        -webkit-border-radius: 7px;
+	        border-radius: 7px;
+	        behavior: url(border-radius.htc);
+        }
+    .ddOrange
+    {
+         margin-left:30px; 
+         margin-top:6px;
+         border-style:none;
+         outline-style:none; 
+    } 

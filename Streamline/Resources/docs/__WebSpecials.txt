@@ -1,0 +1,190 @@
+Date: 5/18/2015
+PickupID: 0
+AddressID: 4174426
+PickupDate: 6/8/2015
+ItemLocation:DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: VALLEJO
+CharityID:0
+Comment:
+txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 18 PINHEIRO CIR
+City: NOVATO
+State: CA
+Zip: 949456805
+--------------------------------------------
+Date: 5/18/2015
+PickupID: 0
+AddressID: 4174426
+PickupDate: 6/8/2015
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: VALLEJO
+CharityID:0
+Comment:
+txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 18 PINHEIRO CIR
+City: NOVATO
+State: CA
+Zip: 949456805
+--------------------------------------------
+Date: 5/18/2015
+PickupID: 0
+AddressID: 4174426
+PickupDate: 6/8/2015
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: VALLEJO
+CharityID:0
+Comment:
+TYPE: txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 18 PINHEIRO CIR
+City: NOVATO
+State: CA
+Zip: 949456805
+--------------------------------------------
+Date: 11/21/2016
+PickupID: 386702
+hfAddressID: 4234951
+PickupDate: 11/28/2016
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: VALLEJO
+CharityID:0
+Comment:
+TYPE: txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 17 MOCKINGBIRD CT
+City: NOVATO
+State: CA
+Zip: 949473748
+--------------------------------------------
+Date: 11/21/2016
+PickupID: 386703
+hfAddressID: 4234951
+PickupDate: 12/5/2016
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: VALLEJO
+CharityID:6246
+Comment:
+TYPE: txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 17 MOCKINGBIRD CT
+City: NOVATO
+State: CA
+Zip: 949473748
+--------------------------------------------
+Date: 1/27/2017
+PickupID: 0
+AddressID: 4165712
+PickupDate: 1/31/2017
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: HAYWARD
+CharityID:6241
+Comment:
+TYPE: qs
+FirstName: RONG
+LastName: ZHAO
+PhoneHome: 1112223333
+Email: RZHAO@MAIL.COM
+StreetAddress: 1186 CRESTLINE DR
+City: CUPERTINO
+State: CA
+Zip: 95014
+--------------------------------------------
+Date: 1/27/2017
+PickupID: 0
+AddressID: 4165712
+PickupDate: 1/31/2017
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: HAYWARD
+CharityID:6241
+Comment:
+TYPE: qs
+FirstName: RONG
+LastName: ZHAO
+PhoneHome: 1112223333
+Email: RZHAO@MAIL.COM
+StreetAddress: 1186 CRESTLINE DR
+City: CUPERTINO
+State: CA
+Zip: 95014
+--------------------------------------------
+Date: 1/27/2017
+PickupID: 0
+AddressID: 4165712
+PickupDate: 1/31/2017
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: HAYWARD
+CharityID:6241
+Comment:
+TYPE: qs
+FirstName: RONG
+LastName: ZHAO
+PhoneHome: 1112223333
+Email: RZHAO@MAIL.COM
+StreetAddress: 1186 CRESTLINE DR
+City: CUPERTINO
+State: CA
+Zip: 95014
+--------------------------------------------
+Date: 3/6/2017
+PickupID: 0
+hfAddressID: 4174426
+PickupDate: 3/13/2017
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: 
+CharityID:0
+Comment:
+TYPE: txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 18 PINHEIRO CIR
+City: NOVATO
+State: CA
+Zip: 94945
+--------------------------------------------
+Date: 3/6/2017
+PickupID: 0
+hfAddressID: 4174426
+PickupDate: 3/13/2017
+ItemLocation: DRIVEWAY
+PromisedOther:Smaller (1 - 3 Bags/Boxes)
+DriverLocation: 
+CharityID:0
+Comment:
+TYPE: txt
+FirstName: Robert
+LastName: Comyn
+PhoneHome: 4152595666
+Email: rcomyn@comcast.net
+StreetAddress: 18 PINHEIRO CIR
+City: NOVATO
+State: CA
+Zip: 94945
+--------------------------------------------

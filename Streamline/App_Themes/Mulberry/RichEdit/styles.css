@@ -1,0 +1,254 @@
+.dxreControl_Mulberry
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CFCFCF;
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+}
+.dxreControl_Mulberry .dxre-rulerWrapper {
+	padding-top: 2px;
+    background-color: #F5F5F5;
+}
+.dxreControl_Mulberry .dxre-ruler .dxre-columnHandleLeftPart,
+.dxreControl_Mulberry .dxre-ruler .dxre-columnHandleRightPart {
+    width: 5px;
+    background-color: #bcb8b8;
+}
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerDivisions div,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-columnHandle,
+.dxreControl_Mulberry .dxre-ruler .dxre-columnHandle > div {
+	height: 12px;
+}
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_Mulberry .dxre-rulerWrapper .dxre-rulertabAlignBox > div {
+    background-color: #fff;
+}
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_Mulberry .dxre-ruler .dxre-columnHandle,
+.dxreControl_Mulberry .dxre-rulerWrapper .dxre-rulertabAlignBox {
+    background-color: #d3d3d3;
+}
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerDivisions .dxre-rulerMinorDivision,
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerDivisions .dxre-rulerMajorDivision {
+	border-left: 1px solid #a3a3a3;
+}
+.dxreControl_Mulberry .dxre-ruler .dxre-rulerDivisions .dxre-rulerNumberDivision {
+	color: #4e4e4e;
+}
+.dxreControl_Mulberry .dxre-rulerLine {
+	border-left: 1px dashed #717171;
+}
+.dxreControl_Mulberry .dxre-leftIdentDragHandleBody {
+    background-color: white;
+    border: 1px solid #929292;
+    border-top: none;
+    height: 6px;
+    box-sizing: border-box;
+}
+.dxreControl_Mulberry .dxrControl_Mulberry .dxr-minBtn 
+{
+	margin-right: 5px;
+}
+.dxreControl_Mulberry .dxrControl_Mulberry .dxtcLite_Mulberry
+{
+	background-color: #FFFFFF;
+}
+.dxreControl_Mulberry .dxrControl_Mulberry .dxr-tabContent 
+{
+	border-left-style: none;
+	border-right-style: none;
+}
+.dxreControl_Mulberry .dxrControl_Mulberry .dxtcLite_Mulberry.dxtc-top .dxtc-leftIndent
+{
+	width: 3px;
+}
+.dxreControl_Mulberry .dxre-page 
+{
+    border: 1px solid #A0A0A0;
+}
+.dxreControl_Mulberry .dxre-view 
+{
+	background: #F5F5F5;
+}
+.dxreControl_Mulberry .dxre-bar 
+{
+	background-color: #FFF;
+	border-top: 4px solid #F0F0F0;
+    height: 28px;
+    font-size: 14px;
+}
+.dxreControl_Mulberry .dxre-bar .dxre-loadingPanel {
+    float: right;
+    margin: 6px 4px 0 0;
+    color: #7e7e7e;
+}
+.dxreControl_Mulberry .dxre-bar .dxre-loadingPanel .dx {
+    line-height: 0;
+}
+.dxreControl_Mulberry .dxre-bar .dxre-loadingPanel .dxlp-loadingImage {
+    width: 16px;
+    height: 16px;
+    background: url('reLoadingOnStatusBar.gif');
+}
+
+/*Dialogs Style*/
+.dxreControl_Mulberry .dxreDlgSaveFileForm .dxrpControl_Mulberry .dxrpcontent.dx-borderBox {
+    padding: 20px;
+}
+.dxreControl_Mulberry .dxreDlgParagraphForm .dxtc-content {
+    width: 520px;
+    height: 380px;
+}
+.dxreControl_Mulberry .dxreDlgPageSetupForm .dxtc-content {
+    width: 420px;
+    height: 290px;
+}
+.dxreControl_Mulberry .dxreDlgColumnsForm {
+    width: 500px;
+}
+.dxreControl_Mulberry .dxreDlgColumnsForm .dxreDlgColumnsEditorMainTable > tbody > tr > td {
+    padding: 2px 4px;
+}
+.dxreControl_Mulberry .dxreDlgColumnsForm .dxreDlgColumnsEditor {
+    height: 150px;
+}
+.dxreControl_Mulberry .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgTextBox {
+    width: 60px;
+}
+.dxreControl_Mulberry .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgSpinEdit {
+    width: 130px;
+}
+.dxreControl_Mulberry .dxreDlgErrorForm {
+    width: 400px;
+}
+.dxreControl_Mulberry .dxreDlgCaptionCell {
+	padding-left: 5px;
+    padding-right: 7px;
+    padding-top: 3px;
+}
+.dxreControl_Mulberry .dxreDlgContentCell {
+	padding: 11px;
+}
+.dxreControl_Mulberry .dxreDlgHeaderCell {
+	padding-bottom: 7px;
+}
+.dxreControl_Mulberry .dxreDlgEmptyLine {
+	height: 8px;
+}
+.dxreControl_Mulberry .dxreDlgEditor {
+    width: 150px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Mulberry .dxreDlgEditorShort {
+    width: 70px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Mulberry .dxreDlgEditorLong {
+    width: 180px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Mulberry .dxreDlgFooterBtn {
+    width: 100px;
+    margin-left: 8px;
+}
+.dxreControl_Mulberry .dxreDlgPageSetupApplyTo {
+	bottom: 80px;
+	left: 23px;
+}
+.dxreControl_Mulberry .dxreDlgTypeRadionButtonListCell {
+	padding-bottom: 10px;
+}
+.dxreControl_Mulberry .dxreDlgFooter {
+	height: 27px;
+	padding: 15px 15px 15px 15px;
+    background-color: #FAFAFA;
+    border-top: Solid 1px #CBCBCB;
+}
+.dxreControl_Mulberry .dxreDlgInsertImageForm .dxreDlgImagePreview {
+    padding-top: 10px;
+}
+.dxreControl_Mulberry .dxreDlgInsertImageForm .dxreDlgImagePreviewCell {
+    height: 170px;
+    color: #878787;
+    border: dashed 1px #cac8c8;
+}
+.dxreControl_Mulberry .dxreDlgInsertImageForm .dxreDlgImagePreviewCell img {
+    width: 180px;
+    height: 100px;
+}
+.dxreControl_Mulberry .dxreDlgInsertImageForm .dxreDlgInsertImagePanel {
+    width: 415px;
+}
+.dxreControl_Mulberry .dxre-dialog .dxrpControl_Mulberry.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent {
+    padding: 17px;
+}
+.dxreControl_Mulberry .dxre-dialog .dxrpControlGB_Mulberry > tbody > tr.dxrpCR > .dxrpcontent {
+    padding: 10px 12px 12px 12px;
+}
+.dxreControl_Mulberry .dxreDlgNumberingListForm .dxreDlgMainContainer {
+    width: 520px;
+    height: 220px;
+}
+.dxreControl_Mulberry .dxreDlgHyperlinkForm {
+    width: 380px;
+}
+.dxreControl_Mulberry .dxreDlgTabsForm {
+    width: 380px;
+}
+.dxreControl_Mulberry .dxreDlgTabsForm .dxreDlgTabsList {
+    height: 100px;
+}
+.dxreControl_Mulberry .dxreMultiLevelNumberingListBox {
+    width: 50px;
+    height: 250px;
+}
+.dxreControl_Mulberry .dxreDlgBulletedListForm .dxreDlgBulletPresetBtn {
+    width: 45px;
+    margin: 8px 0px 12px 5px;
+}
+.dxreControl_Mulberry .dxreDlgListBox {
+    padding: 1px;
+}
+.dxreControl_Mulberry .dxreDlgSymbolsForm .dxreDlgSymbolsList {
+    width: 500px;
+    height: 250px;
+    border: 1px solid #D1D1D1;
+}
+.dxreControl_Mulberry .dxreDlgListBox > div {
+    border: 1px solid #D1D1D1;
+    margin: 1px;
+}
+.dxreControl_Mulberry .dxreDlgSymbolsForm .dxreDlgListBox > div {
+    width: 37px;
+    height: 37px;
+    line-height: 37px;
+    font-size: large;
+}
+.dxreControl_Mulberry .dxreDlgNumberingListForm .dxreDlgListBox > div {
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+}
+.dxreControl_Mulberry .dxreDlgNumberingListForm .dxreDlgNumberingListPreview {
+    padding: 10px;
+    width: 90px;
+    height: 90px;
+}
+.dxreControl_Mulberry .dxreDlgListBox .dxreDlgListHover {
+    background-color: #F1F1F1;
+}
+.dxreControl_Mulberry .dxreDlgListBox .dxreDlgListSelected {
+    background-color: #BF4E6A;
+    color: #FFF;
+}

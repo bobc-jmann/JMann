@@ -1,0 +1,247 @@
+.dxreControl_Youthful
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFF;
+	font: 12px Tahoma, Geneva, sans-serif;
+}
+.dxreControl_Youthful .dxre-rulerWrapper {
+	padding-top: 2px;
+    background-color: #F7F7F7;
+}
+.dxreControl_Youthful .dxre-ruler .dxre-columnHandleLeftPart,
+.dxreControl_Youthful .dxre-ruler .dxre-columnHandleRightPart {
+    width: 5px;
+    background-color: #bcb8b8;
+}
+.dxreControl_Youthful .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerDivisions div,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_Youthful .dxre-ruler .dxre-columnHandle,
+.dxreControl_Youthful .dxre-ruler .dxre-columnHandle > div {
+	height: 12px;
+}
+.dxreControl_Youthful .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_Youthful .dxre-rulerWrapper .dxre-rulertabAlignBox > div {
+    background-color: #fff;
+}
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_Youthful .dxre-ruler .dxre-columnHandle,
+.dxreControl_Youthful .dxre-rulerWrapper .dxre-rulertabAlignBox {
+    background-color: #d3d3d3;
+}
+.dxreControl_Youthful .dxre-ruler .dxre-rulerDivisions .dxre-rulerMinorDivision,
+.dxreControl_Youthful .dxre-ruler .dxre-rulerDivisions .dxre-rulerMajorDivision {
+	border-left: 1px solid #a3a3a3;
+}
+.dxreControl_Youthful .dxre-ruler .dxre-rulerDivisions .dxre-rulerNumberDivision {
+	color: #4e4e4e;
+}
+.dxreControl_Youthful .dxre-rulerLine {
+	border-left: 1px dashed #717171;
+}
+.dxreControl_Youthful .dxre-leftIdentDragHandleBody {
+    background-color: white;
+    border: 1px solid #929292;
+    border-top: none;
+    height: 6px;
+    box-sizing: border-box;
+}
+.dxreControl_Youthful .dxrControl_Youthful .dxtcLite_Youthful
+{
+	background-color: #D3E4A6;
+}
+.dxreControl_Youthful .dxrControl_Youthful .dxtcLite_Youthful.dxtc-top > .dxtc-stripContainer
+{
+	padding-top: 0px;
+}
+.dxreControl_Youthful .dxrControl_Youthful .dxr-tabContent 
+{
+	border-left-style: none;
+	border-right-style: none;
+}
+.dxreControl_Youthful .dxre-page 
+{
+    border: 1px solid #808080;
+}
+.dxreControl_Youthful .dxre-view 
+{
+	background: #F7F7F7;
+	border-top: 1px solid #FFF;
+}
+.dxreControl_Youthful .dxre-bar 
+{
+	background-color: #E5EECF;
+	border-top: 1px solid #D3E4A6;
+    height: 26px;
+}
+.dxreControl_Youthful .dxre-bar .dxre-loadingPanel {
+    float: right;
+    margin: 8px 4px 0 0;
+    color: #000;
+}
+.dxreControl_Youthful .dxre-bar .dxre-loadingPanel .dx {
+    line-height: 0;
+}
+.dxreControl_Youthful .dxre-bar .dxre-loadingPanel .dxlp-loadingImage {
+    width: 72px;
+    height: 7px;
+    background: url('../Web/Loading.gif');
+}
+.dxreControl_Youthful .dxrControl_Youthful .dxtcLite_Youthful.dxtc-top .dxtc-rightIndent {
+    background-color: #D3E4A6;
+}
+.dxreControl_Youthful .dxrControl_Youthful .dxtcLite_Youthful.dxtc-top .dxtc-tab {
+    background-color: #D3E4A6;
+}
+
+/*Dialogs Style*/
+.dxreControl_Youthful .dxreDlgParagraphForm .dxtc-content {
+    width: 430px;
+    height: 290px;
+}
+.dxreControl_Youthful .dxreDlgPageSetupForm .dxtc-content {
+    width: 350px;
+    height: 230px;
+}
+.dxreControl_Youthful .dxreDlgColumnsForm {
+    width: 400px;
+}
+.dxreControl_Youthful .dxreDlgColumnsForm .dxreDlgColumnsEditorMainTable > tbody > tr > td {
+    padding: 2px 4px;
+}
+.dxreControl_Youthful .dxreDlgColumnsForm .dxreDlgColumnsEditor {
+    height: 110px;
+}
+.dxreControl_Youthful .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgTextBox {
+    width: 40px;
+}
+.dxreControl_Youthful .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgSpinEdit {
+    width: 90px;
+}
+.dxreControl_Youthful .dxreDlgErrorForm {
+    width: 350px;
+}
+.dxreControl_Youthful .dxreDlgCaptionCell {
+	padding-left: 5px;
+    padding-right: 7px;
+    padding-top: 3px;
+}
+.dxreControl_Youthful .dxreDlgContentCell {
+	padding: 11px;
+}
+.dxreControl_Youthful .dxreDlgHeaderCell {
+	padding-bottom: 7px;
+}
+.dxreControl_Youthful .dxreDlgEmptyLine {
+	height: 8px;
+}
+.dxreControl_Youthful .dxreDlgEditor {
+    width: 110px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Youthful .dxreDlgEditorShort {
+    width: 70px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Youthful .dxreDlgEditorLong {
+    width: 170px;
+	margin-right: 7px;
+	margin-left: 5px;
+}
+.dxreControl_Youthful .dxreDlgFooterBtn {
+    width: 80px;
+    margin-left: 8px;
+}
+.dxreControl_Youthful .dxreDlgPageSetupApplyTo {
+	bottom: 70px;
+	left: 23px;
+}
+.dxreControl_Youthful .dxreDlgTypeRadionButtonListCell {
+	padding-bottom: 10px;
+}
+.dxreControl_Youthful .dxreDlgFooter {
+	height: 27px;
+	padding: 10px 10px 11px 10px;
+    background-color: #9CC525;
+    border-top: solid 1px #FFF
+}
+.dxreControl_Youthful .dxreDlgInsertImageForm .dxreDlgImagePreview {
+    padding-top: 10px;
+}
+.dxreControl_Youthful .dxreDlgInsertImageForm .dxreDlgImagePreviewCell {
+    height: 170px;
+    color: #808080;
+    border: dashed 1px #808080;
+}
+.dxreControl_Youthful .dxreDlgInsertImageForm .dxreDlgImagePreviewCell img {
+    width: 180px;
+    height: 100px;
+}
+.dxreControl_Youthful .dxreDlgInsertImageForm .dxreDlgInsertImagePanel {
+    width: 315px;
+}
+.dxreControl_Youthful .dxreDlgNumberingListForm .dxreDlgMainContainer {
+    width: 520px;
+    height: 220px;
+}
+.dxreControl_Youthful .dxreDlgHyperlinkForm {
+    width: 380px;
+}
+.dxreControl_Youthful .dxreDlgTabsForm {
+    width: 380px;
+}
+.dxreControl_Youthful .dxreDlgTabsForm .dxreDlgTabsList {
+    height: 70px;
+}
+.dxreControl_Youthful .dxreMultiLevelNumberingListBox {
+    width: 30px;
+    height: 195px;
+}
+.dxreControl_Youthful .dxreDlgBulletedListForm .dxreDlgBulletPresetBtn {
+    width: 45px;
+    margin: 8px 0px 12px 5px;
+}
+.dxreControl_Youthful .dxreDlgListBox {
+    padding: 1px;
+}
+.dxreControl_Youthful .dxreDlgSymbolsForm .dxreDlgSymbolsList {
+    width: 500px;
+    height: 250px;
+    border: 1px solid #AFC185;
+}
+.dxreControl_Youthful .dxreDlgListBox > div {
+    border: 1px solid #AFC185;
+    margin: 1px;
+    background-color: #FFF;
+}
+.dxreControl_Youthful .dxreDlgSymbolsForm .dxreDlgListBox > div {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: large;
+}
+.dxreControl_Youthful .dxreDlgNumberingListForm .dxreDlgListBox > div {
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+}
+.dxreControl_Youthful .dxreDlgNumberingListForm .dxreDlgNumberingListPreview {
+    padding: 10px;
+    width: 90px;
+    height: 90px;
+}
+.dxreControl_Youthful .dxreDlgListBox .dxreDlgListHover {
+    background-color: #F4BD17;
+}
+.dxreControl_Youthful .dxreDlgListBox .dxreDlgListSelected {
+    background-color: #FFAF4D;
+}

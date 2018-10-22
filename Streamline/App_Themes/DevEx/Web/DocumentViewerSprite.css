@@ -1,0 +1,440 @@
+.dxWeb_xrdvRibbonIcon_BtnDocumentMap_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnDocumentMapDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnDocumentMapLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnDocumentMapLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnFirstPage_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnFirstPageDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnFirstPageLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnFirstPageLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnLastPage_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnLastPageDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnLastPageLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnLastPageLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnNextPage_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnNextPageDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnNextPageLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnNextPageLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnParameters_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnParametersDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnParametersLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnParametersLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrevPage_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrevPageDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrevPageLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrevPageLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrint_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintPage_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintPageDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintPageLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnPrintPageLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSave_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveWindow_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveWindowDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveWindowLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSaveWindowLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSearch_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSearchDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSearchLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_BtnSearchLargeDisabled_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToCsv_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToCsvLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToHtml_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToHtmlLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToImg_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToImgLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToMht_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToMhtLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToPdf_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToPdfLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToRtf_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToRtfLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToTxt_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToTxtLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToXls_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToXlsLarge_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToXlsx_DevEx,
+.dxWeb_xrdvRibbonIcon_ExportToXlsxLarge_DevEx
+{
+    background-image: url('DocumentViewerSprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxWeb_xrdvRibbonIcon_BtnDocumentMap_DevEx
+{
+    background-position: -231px -99px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnDocumentMapDisabled_DevEx
+{
+    background-position: -221px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnDocumentMapLarge_DevEx
+{
+    background-position: -132px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnDocumentMapLargeDisabled_DevEx
+{
+    background-position: -198px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnFirstPage_DevEx
+{
+    background-position: -34px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnFirstPageDisabled_DevEx
+{
+    background-position: -85px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnFirstPageLarge_DevEx
+{
+    background-position: 0px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnFirstPageLargeDisabled_DevEx
+{
+    background-position: -99px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnLastPage_DevEx
+{
+    background-position: -68px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnLastPageDisabled_DevEx
+{
+    background-position: -187px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnLastPageLarge_DevEx
+{
+    background-position: -66px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnLastPageLargeDisabled_DevEx
+{
+    background-position: -132px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnNextPage_DevEx
+{
+    background-position: -102px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnNextPageDisabled_DevEx
+{
+    background-position: -102px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnNextPageLarge_DevEx
+{
+    background-position: -99px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnNextPageLargeDisabled_DevEx
+{
+    background-position: -66px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnParameters_DevEx
+{
+    background-position: -221px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnParametersDisabled_DevEx
+{
+    background-position: 0px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnParametersLarge_DevEx
+{
+    background-position: -165px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnParametersLargeDisabled_DevEx
+{
+    background-position: -231px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrevPage_DevEx
+{
+    background-position: -68px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrevPageDisabled_DevEx
+{
+    background-position: 0px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrevPageLarge_DevEx
+{
+    background-position: 0px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrevPageLargeDisabled_DevEx
+{
+    background-position: 0px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrint_DevEx
+{
+    background-position: -170px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintDisabled_DevEx
+{
+    background-position: -51px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintLarge_DevEx
+{
+    background-position: -198px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintLargeDisabled_DevEx
+{
+    background-position: -99px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintPage_DevEx
+{
+    background-position: -204px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintPageDisabled_DevEx
+{
+    background-position: -51px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintPageLarge_DevEx
+{
+    background-position: -33px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnPrintPageLargeDisabled_DevEx
+{
+    background-position: -66px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSave_DevEx
+{
+    background-position: -153px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveDisabled_DevEx
+{
+    background-position: -204px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveLarge_DevEx
+{
+    background-position: -231px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveLargeDisabled_DevEx
+{
+    background-position: -165px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveWindow_DevEx
+{
+    background-position: -34px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveWindowDisabled_DevEx
+{
+    background-position: -248px -99px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveWindowLarge_DevEx
+{
+    background-position: 0px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSaveWindowLargeDisabled_DevEx
+{
+    background-position: -33px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSearch_DevEx
+{
+    background-position: -119px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSearchDisabled_DevEx
+{
+    background-position: -119px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSearchLarge_DevEx
+{
+    background-position: -132px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_BtnSearchLargeDisabled_DevEx
+{
+    background-position: -198px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToCsv_DevEx
+{
+    background-position: -17px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToCsvLarge_DevEx
+{
+    background-position: -132px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToHtml_DevEx
+{
+    background-position: -85px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToHtmlLarge_DevEx
+{
+    background-position: -165px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToImg_DevEx
+{
+    background-position: -187px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToImgLarge_DevEx
+{
+    background-position: -99px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToMht_DevEx
+{
+    background-position: -136px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToMhtLarge_DevEx
+{
+    background-position: -33px -66px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToPdf_DevEx
+{
+    background-position: -170px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToPdfLarge_DevEx
+{
+    background-position: -165px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToRtf_DevEx
+{
+    background-position: -153px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToRtfLarge_DevEx
+{
+    background-position: -33px -33px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToTxt_DevEx
+{
+    background-position: -136px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToTxtLarge_DevEx
+{
+    background-position: -198px -99px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToXls_DevEx
+{
+    background-position: -238px -132px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToXlsLarge_DevEx
+{
+    background-position: -66px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToXlsx_DevEx
+{
+    background-position: -17px -149px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_xrdvRibbonIcon_ExportToXlsxLarge_DevEx
+{
+    background-position: -231px -66px;
+    width: 32px;
+    height: 32px;
+}
+

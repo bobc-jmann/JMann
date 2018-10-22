@@ -1,0 +1,44 @@
+.dxCardView_gvFilterRowButton_Mulberry,
+.dxCardView_gvHeaderFilter_Mulberry,
+.dxCardView_gvHeaderFilterActive_Mulberry,
+.dxCardView_gvHeaderSortDown_Mulberry,
+.dxCardView_gvHeaderSortUp_Mulberry
+{
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxCardView_gvFilterRowButton_Mulberry
+{
+    background-position: 0px -14px;
+    width: 13px;
+    height: 13px;
+}
+.dxCardView_gvHeaderFilter_Mulberry
+{
+    background-position: 0px 0px;
+    width: 18px;
+    height: 13px;
+}
+.dxCardView_gvHeaderFilterActive_Mulberry
+{
+    background-position: -19px 0px;
+    width: 18px;
+    height: 13px;
+}
+.dxCardView_gvHeaderSortDown_Mulberry
+{
+    background-position: -24px -14px;
+    width: 9px;
+    height: 13px;
+}
+.dxCardView_gvHeaderSortUp_Mulberry
+{
+    background-position: -14px -14px;
+    width: 9px;
+    height: 13px;
+}
+.dxCardView_gvHeaderFilterActive_Mulberry
+{
+	background-color: #BF4E6A;
+}

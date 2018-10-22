@@ -1,0 +1,11 @@
+1/8/2015 10:37:41 AM|r@c.com|1233212345|13|12|18 pinheiro|apt 4|novato|94945|abc|3
+Route Worksheet|Save Comments|:UPDATE tblPickupScheduleSections SET StartComments = '8:16', FinishComments = '8:20', Comments = 'sc' WHERE PickupScheduleSectionID = 33760:
+Route Worksheet|Save Comments|:UPDATE tblPickupScheduleSections SET StartComments = '', FinishComments = '', Comments = '1234' WHERE PickupScheduleSectionID = 33763:
+Route Worksheet|Save Comments|:UPDATE tblPickupScheduleSections SET StartComments = '8:16', FinishComments = '', Comments = '' WHERE PickupScheduleSectionID = 33762:
+vbSendEmail: Failure sending mail.
+vbSendEmail: Failure sending mail.
+vbSendEmail: Failure sending mail.
+vbSendEmail: Insufficient system storage. The server response was: 4.3.1 Unable to accept message because the server is out of disk space.
+vbSendEmail: Mailbox unavailable. The server response was: No such domain at this location
+vbSendEmail: Mailbox unavailable. The server response was: No such domain at this location
+vbSendEmail: Mailbox unavailable. The server response was: 4.1.8 <rcomyn@accel-dev.com>: Sender address rejected: Domain not found

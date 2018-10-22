@@ -1,0 +1,884 @@
+.dxeButtonEditButtonHover_MetropolisBlue .dxEditors_edtClear_MetropolisBlue,
+.dxeButtonEditButtonHover_MetropolisBlue .dxEditors_edtDropDown_MetropolisBlue,
+.dxeButtonEditButtonHover_MetropolisBlue .dxEditors_edtEllipsis_MetropolisBlue,
+.dxeButtonEditButtonPressed_MetropolisBlue .dxEditors_edtDropDown_MetropolisBlue,
+.dxeButtonEditButtonPressed_MetropolisBlue .dxEditors_edtEllipsis_MetropolisBlue,
+.dxEditors_caRefresh_MetropolisBlue,
+.dxEditors_edtBinaryImageDelete_MetropolisBlue,
+.dxEditors_edtBinaryImageOpenDialog_MetropolisBlue,
+.dxEditors_edtCalendarFNNextYear_MetropolisBlue,
+.dxEditors_edtCalendarFNPrevYear_MetropolisBlue,
+.dxEditors_edtCalendarNextMonth_MetropolisBlue,
+.dxEditors_edtCalendarNextMonthDisabled_MetropolisBlue,
+.dxEditors_edtCalendarNextYear_MetropolisBlue,
+.dxEditors_edtCalendarNextYearDisabled_MetropolisBlue,
+.dxEditors_edtCalendarPrevMonth_MetropolisBlue,
+.dxEditors_edtCalendarPrevMonthDisabled_MetropolisBlue,
+.dxEditors_edtCalendarPrevYear_MetropolisBlue,
+.dxEditors_edtCalendarPrevYearDisabled_MetropolisBlue,
+.dxEditors_edtClear_MetropolisBlue,
+.dxEditors_edtDETSClockFace_MetropolisBlue,
+.dxEditors_edtDETSHourHand_MetropolisBlue,
+.dxEditors_edtDETSMinuteHand_MetropolisBlue,
+.dxEditors_edtDETSSecondHand_MetropolisBlue,
+.dxEditors_edtDropDown_MetropolisBlue,
+.dxEditors_edtDropDownDisabled_MetropolisBlue,
+.dxEditors_edtEllipsis_MetropolisBlue,
+.dxEditors_edtEllipsisDisabled_MetropolisBlue,
+.dxEditors_edtError_MetropolisBlue,
+.dxEditors_edtRadioButtonChecked_MetropolisBlue,
+.dxEditors_edtRadioButtonCheckedDisabled_MetropolisBlue,
+.dxEditors_edtRadioButtonUnchecked_MetropolisBlue,
+.dxEditors_edtRadioButtonUncheckedDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditDecrementImage_MetropolisBlue,
+.dxEditors_edtSpinEditDecrementImageDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditIncrementImage_MetropolisBlue,
+.dxEditors_edtSpinEditIncrementImageDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditLargeDecImage_MetropolisBlue,
+.dxEditors_edtSpinEditLargeDecImageDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditLargeIncImage_MetropolisBlue,
+.dxEditors_edtSpinEditLargeIncImageDisabled_MetropolisBlue,
+.dxEditors_edtTBDecBtn_MetropolisBlue,
+.dxEditors_edtTBDecBtnDisabled_MetropolisBlue,
+.dxEditors_edtTBDecBtnHover_MetropolisBlue,
+.dxEditors_edtTBDecBtnPressed_MetropolisBlue,
+.dxEditors_edtTBIncBtn_MetropolisBlue,
+.dxEditors_edtTBIncBtnDisabled_MetropolisBlue,
+.dxEditors_edtTBIncBtnHover_MetropolisBlue,
+.dxEditors_edtTBIncBtnPressed_MetropolisBlue,
+.dxEditors_edtTokenBoxTokenRemoveButton_MetropolisBlue,
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_MetropolisBlue,
+.dxEditors_fcadd_MetropolisBlue,
+.dxEditors_fcaddhot_MetropolisBlue,
+.dxEditors_fcgroupaddcondition_MetropolisBlue,
+.dxEditors_fcgroupaddgroup_MetropolisBlue,
+.dxEditors_fcgroupand_MetropolisBlue,
+.dxEditors_fcgroupnotand_MetropolisBlue,
+.dxEditors_fcgroupnotor_MetropolisBlue,
+.dxEditors_fcgroupor_MetropolisBlue,
+.dxEditors_fcgroupremove_MetropolisBlue,
+.dxEditors_fcopany_MetropolisBlue,
+.dxEditors_fcopbegin_MetropolisBlue,
+.dxEditors_fcopbetween_MetropolisBlue,
+.dxEditors_fcopblank_MetropolisBlue,
+.dxEditors_fcopcontain_MetropolisBlue,
+.dxEditors_fcopend_MetropolisBlue,
+.dxEditors_fcopequal_MetropolisBlue,
+.dxEditors_fcopgreater_MetropolisBlue,
+.dxEditors_fcopgreaterorequal_MetropolisBlue,
+.dxEditors_fcopless_MetropolisBlue,
+.dxEditors_fcoplessorequal_MetropolisBlue,
+.dxEditors_fcoplike_MetropolisBlue,
+.dxEditors_fcopnotany_MetropolisBlue,
+.dxEditors_fcopnotbetween_MetropolisBlue,
+.dxEditors_fcopnotblank_MetropolisBlue,
+.dxEditors_fcopnotcontain_MetropolisBlue,
+.dxEditors_fcopnotequal_MetropolisBlue,
+.dxEditors_fcopnotlike_MetropolisBlue,
+.dxEditors_fcremove_MetropolisBlue,
+.dxEditors_fcremovehot_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeSpinDecButtonHover_MetropolisBlue .dxEditors_edtSpinEditDecrementImage_MetropolisBlue,
+.dxeSpinDecButtonPressed_MetropolisBlue .dxEditors_edtSpinEditDecrementImage_MetropolisBlue,
+.dxeSpinIncButtonHover_MetropolisBlue .dxEditors_edtSpinEditIncrementImage_MetropolisBlue,
+.dxeSpinIncButtonPressed_MetropolisBlue .dxEditors_edtSpinEditIncrementImage_MetropolisBlue,
+.dxeSpinLargeDecButtonHover_MetropolisBlue .dxEditors_edtSpinEditLargeDecImage_MetropolisBlue,
+.dxeSpinLargeDecButtonPressed_MetropolisBlue .dxEditors_edtSpinEditLargeDecImage_MetropolisBlue,
+.dxeSpinLargeIncButtonHover_MetropolisBlue .dxEditors_edtSpinEditLargeIncImage_MetropolisBlue,
+.dxeSpinLargeIncButtonPressed_MetropolisBlue .dxEditors_edtSpinEditLargeIncImage_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDH_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBMainDH_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue
+{
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxeButtonEditButtonHover_MetropolisBlue .dxEditors_edtClear_MetropolisBlue
+{
+    background-position: -14px -187px;
+    width: 13px;
+    height: 13px;
+}
+.dxeButtonEditButtonHover_MetropolisBlue .dxEditors_edtDropDown_MetropolisBlue
+{
+    background-position: -33px -172px;
+    width: 10px;
+    height: 14px;
+}
+.dxeButtonEditButtonHover_MetropolisBlue .dxEditors_edtEllipsis_MetropolisBlue
+{
+    background-position: -166px -133px;
+    width: 11px;
+    height: 14px;
+}
+.dxeButtonEditButtonPressed_MetropolisBlue .dxEditors_edtDropDown_MetropolisBlue
+{
+    background-position: 0px -172px;
+    width: 10px;
+    height: 14px;
+}
+.dxeButtonEditButtonPressed_MetropolisBlue .dxEditors_edtEllipsis_MetropolisBlue
+{
+    background-position: -142px -133px;
+    width: 11px;
+    height: 14px;
+}
+.dxEditors_caRefresh_MetropolisBlue
+{
+    background-position: -150px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtBinaryImageDelete_MetropolisBlue
+{
+    background-position: -130px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxEditors_edtBinaryImageOpenDialog_MetropolisBlue
+{
+    background-position: -163px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dxEditors_edtCalendarFNNextYear_MetropolisBlue
+{
+    background-position: -100px -133px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarFNPrevYear_MetropolisBlue
+{
+    background-position: -50px -133px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarNextMonth_MetropolisBlue
+{
+    background-position: -173px -83px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarNextMonthDisabled_MetropolisBlue
+{
+    background-position: -125px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarNextYear_MetropolisBlue
+{
+    background-position: 0px -133px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarNextYearDisabled_MetropolisBlue
+{
+    background-position: -148px -83px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarPrevMonth_MetropolisBlue
+{
+    background-position: -155px -33px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarPrevMonthDisabled_MetropolisBlue
+{
+    background-position: -123px -83px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarPrevYear_MetropolisBlue
+{
+    background-position: -130px -33px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtCalendarPrevYearDisabled_MetropolisBlue
+{
+    background-position: -75px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtClear_MetropolisBlue
+{
+    background-position: -14px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_edtDETSClockFace_MetropolisBlue
+{
+    background-position: 0px 0px;
+    width: 107px;
+    height: 107px;
+}
+.dxEditors_edtDETSHourHand_MetropolisBlue
+{
+    background-position: -122px 0px;
+    width: 7px;
+    height: 64px;
+}
+.dxEditors_edtDETSMinuteHand_MetropolisBlue
+{
+    background-position: -114px 0px;
+    width: 7px;
+    height: 64px;
+}
+.dxEditors_edtDETSSecondHand_MetropolisBlue
+{
+    background-position: -108px 0px;
+    width: 5px;
+    height: 72px;
+}
+.dxEditors_edtDropDown_MetropolisBlue
+{
+    background-position: -22px -172px;
+    width: 10px;
+    height: 14px;
+}
+.dxEditors_edtDropDownDisabled_MetropolisBlue
+{
+    background-position: -11px -172px;
+    width: 10px;
+    height: 14px;
+}
+.dxEditors_edtEllipsis_MetropolisBlue
+{
+    background-position: -178px -133px;
+    width: 11px;
+    height: 14px;
+}
+.dxEditors_edtEllipsisDisabled_MetropolisBlue
+{
+    background-position: -154px -133px;
+    width: 11px;
+    height: 14px;
+}
+.dxEditors_edtError_MetropolisBlue
+{
+    background-position: -108px -93px;
+    width: 14px;
+    height: 14px;
+}
+.dxEditors_edtRadioButtonChecked_MetropolisBlue
+{
+    background-position: -180px -66px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtRadioButtonCheckedDisabled_MetropolisBlue
+{
+    background-position: -125px -133px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtRadioButtonUnchecked_MetropolisBlue
+{
+    background-position: -180px -49px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtRadioButtonUncheckedDisabled_MetropolisBlue
+{
+    background-position: -175px -108px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtSpinEditDecrementImage_MetropolisBlue
+{
+    background-position: -146px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditDecrementImageDisabled_MetropolisBlue
+{
+    background-position: -168px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImage_MetropolisBlue
+{
+    background-position: -157px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImageDisabled_MetropolisBlue
+{
+    background-position: -135px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditLargeDecImage_MetropolisBlue
+{
+    background-position: -108px -75px;
+    width: 4px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeDecImageDisabled_MetropolisBlue
+{
+    background-position: -180px -125px;
+    width: 4px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeIncImage_MetropolisBlue
+{
+    background-position: -192px -108px;
+    width: 4px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeIncImageDisabled_MetropolisBlue
+{
+    background-position: -192px -117px;
+    width: 4px;
+    height: 7px;
+}
+.dxEditors_edtTBDecBtn_MetropolisBlue
+{
+    background-position: 0px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBDecBtnDisabled_MetropolisBlue
+{
+    background-position: -25px -133px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBDecBtnHover_MetropolisBlue
+{
+    background-position: -155px -58px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBDecBtnPressed_MetropolisBlue
+{
+    background-position: -75px -133px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBIncBtn_MetropolisBlue
+{
+    background-position: -100px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBIncBtnDisabled_MetropolisBlue
+{
+    background-position: -50px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBIncBtnHover_MetropolisBlue
+{
+    background-position: -25px -108px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTBIncBtnPressed_MetropolisBlue
+{
+    background-position: -130px -58px;
+    width: 24px;
+    height: 24px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButton_MetropolisBlue
+{
+    background-position: -114px -67px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_MetropolisBlue
+{
+    background-position: -180px -33px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_fcadd_MetropolisBlue
+{
+    background-position: -100px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcaddhot_MetropolisBlue
+{
+    background-position: -42px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddcondition_MetropolisBlue
+{
+    background-position: -170px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddgroup_MetropolisBlue
+{
+    background-position: -114px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupand_MetropolisBlue
+{
+    background-position: -182px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotand_MetropolisBlue
+{
+    background-position: -128px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotor_MetropolisBlue
+{
+    background-position: 0px -187px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupor_MetropolisBlue
+{
+    background-position: -28px -187px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupremove_MetropolisBlue
+{
+    background-position: -126px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopany_MetropolisBlue
+{
+    background-position: -84px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbegin_MetropolisBlue
+{
+    background-position: -140px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbetween_MetropolisBlue
+{
+    background-position: -70px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopblank_MetropolisBlue
+{
+    background-position: -98px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopcontain_MetropolisBlue
+{
+    background-position: -184px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopend_MetropolisBlue
+{
+    background-position: -56px -187px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopequal_MetropolisBlue
+{
+    background-position: -72px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreater_MetropolisBlue
+{
+    background-position: -44px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreaterorequal_MetropolisBlue
+{
+    background-position: -86px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopless_MetropolisBlue
+{
+    background-position: -154px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplessorequal_MetropolisBlue
+{
+    background-position: -42px -187px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplike_MetropolisBlue
+{
+    background-position: -168px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotany_MetropolisBlue
+{
+    background-position: -70px -187px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotbetween_MetropolisBlue
+{
+    background-position: -112px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotblank_MetropolisBlue
+{
+    background-position: -28px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotcontain_MetropolisBlue
+{
+    background-position: 0px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotequal_MetropolisBlue
+{
+    background-position: -58px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotlike_MetropolisBlue
+{
+    background-position: -56px -158px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremove_MetropolisBlue
+{
+    background-position: -156px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremovehot_MetropolisBlue
+{
+    background-position: -142px -172px;
+    width: 13px;
+    height: 13px;
+}
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MetropolisBlue
+{
+    background-position: -180px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MetropolisBlue
+{
+    background-position: -84px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue
+{
+    background-position: -148px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue
+{
+    background-position: -108px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue
+{
+    background-position: -156px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue
+{
+    background-position: -172px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MetropolisBlue
+{
+    background-position: -185px -150px;
+    width: 12px;
+    height: 7px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MetropolisBlue
+{
+    background-position: -52px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue
+{
+    background-position: -78px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue
+{
+    background-position: -172px -150px;
+    width: 12px;
+    height: 7px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue
+{
+    background-position: -108px -85px;
+    width: 12px;
+    height: 7px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue
+{
+    background-position: -159px -150px;
+    width: 12px;
+    height: 7px;
+}
+.dxeSpinDecButtonHover_MetropolisBlue .dxEditors_edtSpinEditDecrementImage_MetropolisBlue
+{
+    background-position: -113px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxeSpinDecButtonPressed_MetropolisBlue .dxEditors_edtSpinEditDecrementImage_MetropolisBlue
+{
+    background-position: -91px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxeSpinIncButtonHover_MetropolisBlue .dxEditors_edtSpinEditIncrementImage_MetropolisBlue
+{
+    background-position: -124px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxeSpinIncButtonPressed_MetropolisBlue .dxEditors_edtSpinEditIncrementImage_MetropolisBlue
+{
+    background-position: -102px -201px;
+    width: 10px;
+    height: 5px;
+}
+.dxeSpinLargeDecButtonHover_MetropolisBlue .dxEditors_edtSpinEditLargeDecImage_MetropolisBlue
+{
+    background-position: -128px -150px;
+    width: 4px;
+    height: 7px;
+}
+.dxeSpinLargeDecButtonPressed_MetropolisBlue .dxEditors_edtSpinEditLargeDecImage_MetropolisBlue
+{
+    background-position: -175px -125px;
+    width: 4px;
+    height: 7px;
+}
+.dxeSpinLargeIncButtonHover_MetropolisBlue .dxEditors_edtSpinEditLargeIncImage_MetropolisBlue
+{
+    background-position: -193px -187px;
+    width: 4px;
+    height: 7px;
+}
+.dxeSpinLargeIncButtonPressed_MetropolisBlue .dxEditors_edtSpinEditLargeIncImage_MetropolisBlue
+{
+    background-position: -188px -187px;
+    width: 4px;
+    height: 7px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDH_MetropolisBlue
+{
+    background-position: -140px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_MetropolisBlue
+{
+    background-position: -190px -133px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHHover_MetropolisBlue
+{
+    background-position: -124px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue
+{
+    background-position: -100px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue
+{
+    background-position: -164px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_MetropolisBlue
+{
+    background-position: -132px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue
+{
+    background-position: -92px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue
+{
+    background-position: -116px -187px;
+    width: 7px;
+    height: 12px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDH_MetropolisBlue
+{
+    background-position: -146px -150px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_MetropolisBlue
+{
+    background-position: 0px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHHover_MetropolisBlue
+{
+    background-position: -13px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MetropolisBlue
+{
+    background-position: -26px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_MetropolisBlue
+{
+    background-position: -133px -150px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_MetropolisBlue
+{
+    background-position: -185px -125px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue
+{
+    background-position: -39px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue
+{
+    background-position: -65px -201px;
+    width: 12px;
+    height: 7px;
+}
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeFocused_MetropolisBlue .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHHover_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxEditors_edtTBDecBtnHover_MetropolisBlue,
+.dxEditors_edtTBDecBtnPressed_MetropolisBlue,
+.dxEditors_edtTBIncBtnHover_MetropolisBlue,
+.dxEditors_edtTBIncBtnPressed_MetropolisBlue,
+.dxEditors_edtRadioButtonChecked_MetropolisBlue,
+.dxEditors_edtRadioButtonCheckedDisabled_MetropolisBlue,
+.dxEditors_edtRadioButtonUnchecked_MetropolisBlue,
+.dxEditors_edtRadioButtonUncheckedDisabled_MetropolisBlue
+{
+    background-color: #0072C6;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MetropolisBlue,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MetropolisBlue
+{
+	z-index: 7;
+}
+.dxEditors_edtError_MetropolisBlue,
+.dxEditors_edtCalendarPrevYear_MetropolisBlue,
+.dxEditors_edtCalendarPrevYearDisabled_MetropolisBlue,
+.dxEditors_edtCalendarPrevMonth_MetropolisBlue,
+.dxEditors_edtCalendarPrevMonthDisabled_MetropolisBlue,
+.dxEditors_edtCalendarNextMonth_MetropolisBlue,
+.dxEditors_edtCalendarNextMonthDisabled_MetropolisBlue,
+.dxEditors_edtCalendarNextYear_MetropolisBlue,
+.dxEditors_edtCalendarNextYearDisabled_MetropolisBlue,
+.dxEditors_edtCalendarFNPrevYear_MetropolisBlue,
+.dxEditors_edtCalendarFNNextYear_MetropolisBlue,
+.dxEditors_edtEllipsis_MetropolisBlue,
+.dxEditors_edtEllipsisDisabled_MetropolisBlue,
+.dxEditors_edtDropDown_MetropolisBlue,
+.dxEditors_edtDropDownDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditIncrementImage_MetropolisBlue,
+.dxEditors_edtSpinEditIncrementImageDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditDecrementImage_MetropolisBlue,
+.dxEditors_edtSpinEditDecrementImageDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditLargeIncImage_MetropolisBlue,
+.dxEditors_edtSpinEditLargeIncImageDisabled_MetropolisBlue,
+.dxEditors_edtSpinEditLargeDecImage_MetropolisBlue,
+.dxEditors_edtSpinEditLargeDecImageDisabled_MetropolisBlue
+{
+	display:block;
+	margin:auto;
+}
+.dxEditors_edtCalendarFNPrevYear_MetropolisBlue
+{
+    margin-right: 8px;
+}
+.dxEditors_edtCalendarFNNextYear_MetropolisBlue
+{
+    margin-left: 8px;
+}
+

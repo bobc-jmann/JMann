@@ -1,0 +1,159 @@
+.dxssControl_Office2010Silver 
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #868b91;
+	font: 11px Verdana, Geneva, sans-serif;
+}
+.dxssControl_Office2010Silver .dxrControl_Office2010Silver .dxr-tabContent 
+{
+	border-left-style: none;
+	border-right-style: none;
+}
+.dxssControl_Office2010Silver .dxss-gl .dxss-v,
+.dxssControl_Office2010Silver .dxss-gl .dxss-h 
+{
+	border-color: #dbdee1;
+}
+.dxssControl_Office2010Silver .dxss-rowHeader 
+{	
+	border-right: 1px solid #dbdee1;
+	border-top: 1px solid #dbdee1;
+}
+.dxssControl_Office2010Silver .dxss-colHeader 
+{
+	border-bottom: 1px solid #dbdee1;
+	border-left: 1px solid #dbdee1;
+}
+.dxssControl_Office2010Silver .dxss-crse 
+{
+	background-color: #FCCD41; 
+}
+ .dxssControl_Office2010Silver .dxss-trbe 
+ {
+	border-top-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxss-rrbe 
+{
+	border-right-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxss-brbe 
+{
+	border-bottom-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxss-lrbe 
+{
+	border-left-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxss-smbe
+{
+    border-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxrControl_Office2010Silver .dxtcLite_Office2010Silver.dxtc-top .dxtc-leftIndent
+{
+	width: 3px;
+}
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver,
+.dxssControl_Office2010Silver .dxrControl_Office2010Silver .dxtcLite_Office2010Silver
+{
+	background-color: #e9edf1;
+}
+.dxssControl_Office2010Silver .dxss-hrg,
+.dxssControl_Office2010Silver .dxss-vrg 
+{
+	background-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver.dxtc-bottom .dxtc-stripContainer
+{
+	padding: 0! important;
+}
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver .dxtc-stripContainer .dxtc-leftIndent
+{
+	width: 0;
+}
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver.dxtc-bottom .dxtc-stripContainer .dxtc-tab,
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver.dxtc-bottom .dxtc-stripContainer .dxtc-activeTab
+{
+    border-bottom-width: 0 !important;
+    border-left-width: 0 !important;
+}
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver.dxtc-bottom .dxtc-stripContainer .dxtc-link
+{
+    padding: 4px 35px 5px 34px;
+}
+.dxssControl_Office2010Silver .dxtcLite_Office2010Silver.dxtc-bottom .dxtc-stripContainer .dxtc-spacer 
+{
+	width: 0px;
+}
+.dxssControl_Office2010Silver .dxrControl_Office2010Silver .dxr-minBtn
+{
+	padding-right: 7px;
+}
+.dxssControl_Office2010Silver .dxss-tse
+{
+	border-color: #c27f31;
+}
+.dxssControl_Office2010Silver .dxss-tre
+{
+	background: url('TouchResize.png');
+}
+/* Loading panel */
+.dxssLoadingDiv_Office2010Silver
+{
+    background: White;
+    opacity: 0.85 !important;
+    filter: alpha(opacity=85);
+}
+.dxssLoadingPanel_Office2010Silver
+{
+	font: 11px Verdana, Geneva, sans-serif;
+	color: #585e68;
+	background: White none;
+	border: 1px solid #80858d;
+}
+.dxssLoadingPanel_Office2010Silver td.dx
+{
+    white-space: nowrap;
+    text-align: center;
+	padding: 10px 14px;
+}
+.dxssLoadingPanel_Office2010Silver .dxlp-loadingImage
+{
+	background-image: url('../Web/Loading.gif');
+	height: 16px;
+	width: 16px;
+}
+/* --------------Dialogs----------------- */
+.dxpcLite_Office2010Silver .dxssDlgFooter
+{
+	background-color: #e9edf1;
+	border-top: 1px #c9cdd2 solid;
+}
+.dxpcLite_Office2010Silver .dxssDlgInsertImageForm .dxssDlgImagePreviewCell
+{
+    color: #737373;
+    border: dashed 1px #cac8c8;
+}
+.dxssControl_Office2010Silver .dxrpControl_Office2010Silver .dxrpcontent
+{
+	padding: 9px !important;
+}
+
+.dxssModifyChartStyleContenPanel .dxbButtonHover_Office2010Silver
+{
+	color: #3c3c3c;
+	background: #fcf8e5 url('../Editors/edtBtnHBack.png') repeat-x left top;
+	border: 1px solid #eecc53;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonChecked_Office2010Silver
+{
+	color: #3c3c3c;
+	background: #fee287 url('../Editors/edtBtnPBack.png') repeat-x left top;
+	border: 1px solid #c2762b;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonPressed_Office2010Silver
+{
+	color: #3c3c3c;
+	background: #fee287 url('../Editors/edtBtnPBack.png') repeat-x left top;
+	border: 1px solid #c2762b;
+}

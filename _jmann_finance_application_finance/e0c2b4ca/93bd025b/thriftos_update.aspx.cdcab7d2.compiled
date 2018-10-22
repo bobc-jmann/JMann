@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/JMann/Finance/Application/Finance/ThriftOS_Update.aspx" hash="1b6e2c42e" filehash="a92fca8ff02be174" flags="110000" assembly="App_Web_fdgqmtkv" type="ASP.thriftos_update_aspx">
+    <filedeps>
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/MasterPage.master.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/ThriftOS_Update.aspx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/ThriftOS_Update.aspx.cs" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx" />
+        <filedep name="/D:/JMann/Finance/Application/Finance/UC/footer.ascx.cs" />
+    </filedeps>
+</preserve>
